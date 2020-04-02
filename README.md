@@ -1,6 +1,6 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
-# Half Life Alyx No vr driver
+# Half Life Alyx no VR driver
 Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. It is not clear yet whether it will be possible to go through the whole game in this way, but if in some place a problem arises, can use saves or other methods to bypass the problem moment in the game.
 
 [![](https://user-images.githubusercontent.com/9499881/78283334-ad9e4e80-752e-11ea-8aea-a2cf18eae511.gif)](https://youtu.be/-8tchjRHSrA) 
@@ -22,7 +22,7 @@ for the game shortcut in the game properties. After adding, the launch path will
 
 After starting the console, must enter the console `vr_gg_gesture_pull 0`. This is necessary so that objects are pulled up without movement.
 
-## Управление
+## Control
 ![](https://user-images.githubusercontent.com/9499881/78291469-7fbd0800-7536-11ea-84fe-b9f5166613d8.PNG)
 
 Button | description | Designation in VR

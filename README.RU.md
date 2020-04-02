@@ -1,6 +1,6 @@
 ﻿[![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
-# Half Life Alyx No vr driver
+# Half Life Alyx no VR driver
 Драйвер позволяющий играть в [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) без VR, на клавиатуре и мыши. Пока не понятно можно ли будет пройти таким образом всю игру, но если в каком-то месте возникнет проблема можно использовать сохранения или другие методы обхода проблемного момента в игре.
 
 [![](https://user-images.githubusercontent.com/9499881/78283334-ad9e4e80-752e-11ea-8aea-a2cf18eae511.gif)](https://youtu.be/-8tchjRHSrA) 
