@@ -50,7 +50,7 @@ PageDown | Move down | Move controllers and heads down
 ## Saves or workarounds for problem areas
 Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves. Saves can be placed in ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) with the prefix "[Save]" Level name and screenshot.
 
-## Проблемы
+## Problems
 Please read [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) and [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) issues and carefully read the description. Perhaps your problem already has a solution.
 
 ## Game in 3D 
