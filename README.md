@@ -22,6 +22,9 @@ for the game shortcut in the game properties. After adding, the launch path will
 
 After starting the console, must enter the console `vr_gg_gesture_pull 0`. This is necessary so that objects are pulled up without movement.
 
+
+
+During the game, the mouse is centered, to turn it off, press the "Escape" key, to resume centering, press "F7".
 ## Control
 ![](https://user-images.githubusercontent.com/9499881/78291469-7fbd0800-7536-11ea-84fe-b9f5166613d8.PNG)
 
@@ -41,6 +44,8 @@ Numpad 0 | Actions of some items | Right Controller Grip
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
+"{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
+"}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
 
 ## Saves or workarounds for problem areas
 Share via ["Issue"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves.
