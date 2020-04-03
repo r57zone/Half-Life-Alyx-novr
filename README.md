@@ -20,11 +20,15 @@ for the game shortcut in the game properties. After adding, the launch path will
 `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" -allowdebug -vconport 29000 -vcon -console"`.
 
 
-After starting the console, must enter the console `vr_gg_gesture_pull 0`. This is necessary so that objects are pulled up without movement.
+After starting the console, must enter the console `vr_gg_gesture_pull 0`. This is necessary so that objects are [pulled up without movement](https://youtu.be/RWQbwlXjtjI).
 
 
 
-During the game, the mouse is centered, to turn it off, press the "Escape" key, to resume centering, press "F7".
+In the game settings, you need to select walking on the touchpad (for smooth walking as in regular games).
+
+
+
+**Warning!** During the game, the mouse is centered, to turn it off, press the "Escape" key, to resume centering, press "F7".
 ## Control
 ![](https://user-images.githubusercontent.com/9499881/78291469-7fbd0800-7536-11ea-84fe-b9f5166613d8.PNG)
 
@@ -36,21 +40,29 @@ Right mouse button | The movement mode of the left controller also activates hol
 Middle mouse button | Weapon selection mode | Pressing up the touch panel of the right controller
 Space | Teleport | Pressing the bottom of the touch panel of the right controller
 Right control | Sit down | Sit down
-Right Shift | Hold of items by the left controller | Left Controller Trigger
+Right Shift | Hold of items by the left controller and pulling up items (you must use the command above, read the setting) | Left Controller Trigger
 Enter | Actions of some items | Left Controller Menu
 Tab | Game menu | Left Controller Grip
 Numpad 0 | Actions of some items | Right Controller Grip
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
-"\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
+"|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
+"'" | Fixing left controller in place (Part 5: North Star) | fixing left controller in space
+Backspace | Health and ammo display | Left controller rotation
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
 "{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 "}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
+"U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - part 5: North Star), reset after use | Rotation of both controllers
+"Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
 
 ## Saves or workarounds for problem areas
-Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves. Saves can be placed in ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) with the prefix "[Save]" Level name and screenshot.
+Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves. Saves can be placed in ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) with the prefix "[Save]" Level name and screenshot, also can add label - "Saves".
 
 ## Problems
+**Red screen** - switch the focus to the game, press the left mouse button and then switch again to the "Headset window". Also can change the "DebugMode" parameter to true, in the "default.vrsettings" configuration file.
+
+
+
 Please read [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) and [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) issues and carefully read the description. Perhaps your problem already has a solution.
 
 ## Game in 3D 
