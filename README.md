@@ -45,7 +45,7 @@ Enter | Actions of some items | Left Controller Menu
 Tab | Game menu | Left Controller Grip
 Numpad 0 | Actions of some items | Right Controller Grip
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
-"|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
+"\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 "'" | Fixing left controller in place (Part 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
 PageUP | Move up | Moving controllers and heads up
