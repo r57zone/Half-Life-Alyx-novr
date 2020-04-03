@@ -11,6 +11,12 @@ Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/54
 ## Setup
 Detailed setup process can be seen in [this video](https://youtu.be/66HIE3DFfjo). 
 
+
+
+After installing SteamVR and TrueOpenVR, need to go to the SteamVR state window -> Setup room -> Small room -> Calibrate-> 170cm.
+
+
+
 Also must add launch options.
 
 `-allowdebug -vconport 29000 -vcon -console`
