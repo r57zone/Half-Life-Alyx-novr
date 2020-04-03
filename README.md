@@ -48,7 +48,13 @@ PageDown | Move down | Move controllers and heads down
 "}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
 
 ## Saves or workarounds for problem areas
-Share via ["Issue"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves.
+Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves. Saves can be placed in ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) with the prefix "[Save]" Level name and screenshot.
+
+## Проблемы
+Please read [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) and [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) issues and carefully read the description. Perhaps your problem already has a solution.
+
+## Game in 3D 
+You can stream game play 3D to smartphone, for example, through the application Moonlight (for Nvidia 600 series +) or Trinus.
 
 ## Download
 >Version for TrueOpenVR & SteamVR.<br>
