@@ -34,7 +34,7 @@ In the game settings, you need to select "Movement: Smooth" (for smooth walking 
 
 
 
-**Warning!** During the game, the mouse is centered, to turn it off, press the "Escape" key, to resume centering, press "F7".
+**Warning!** Select the "Headset Window" or press "F7" for the driver to work.
 ## Control
 ![(https://user-images.githubusercontent.com/9499881/78459634-600b1880-76cb-11ea-9ba8-efb6cff657a2.PNG)
 
