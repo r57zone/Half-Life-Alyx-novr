@@ -30,7 +30,7 @@ After starting the console, must enter the console `vr_gg_gesture_pull 0`. This 
 
 
 
-In the game settings, you need to select walking on the touchpad (for smooth walking as in regular games).
+In the game settings, you need to select "Movement: Smooth" (for smooth walking as in regular games).
 
 
 
