@@ -48,7 +48,7 @@ Space | Teleport | Pressing the bottom of the touch panel of the right controlle
 Right control | Sit down | Sit down
 Right Shift | Hold of items by the left controller and pulling up items (you must use the command above, read the setting) | Left Controller Trigger
 Enter | Actions of some items | Left Controller Menu
-Tab | Game menu | Left Controller Grip
+Escape | Game menu | Left Controller Grip
 Numpad 0 | Actions of some items | Right Controller Grip
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
