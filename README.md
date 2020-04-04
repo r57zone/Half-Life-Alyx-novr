@@ -36,7 +36,7 @@ In the game settings, you need to select "Movement: Smooth" (for smooth walking 
 
 **Warning!** During the game, the mouse is centered, to turn it off, press the "Escape" key, to resume centering, press "F7".
 ## Control
-![](https://user-images.githubusercontent.com/9499881/78291469-7fbd0800-7536-11ea-84fe-b9f5166613d8.PNG)
+![(https://user-images.githubusercontent.com/9499881/78459634-600b1880-76cb-11ea-9ba8-efb6cff657a2.PNG)
 
 Button | description | Designation in VR
 ------------ | ------------- | -------------
@@ -54,6 +54,7 @@ Numpad 0 | Actions of some items | Right Controller Grip
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 "'" | Fixing left controller in place (Part 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
+";" | Movement of the left controller forward (for throwing objects) | Movement of the left controller forward
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
 "{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
@@ -69,7 +70,7 @@ Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) prob
 
 
 
-Please read [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) and [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) issues and carefully read the description. Perhaps your problem already has a solution.
+Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues)[closing] and (https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
 
 ## Game in 3D 
 You can stream game play 3D to smartphone, for example, through the application Moonlight (for Nvidia 600 series +) or Trinus.
