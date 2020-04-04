@@ -36,7 +36,7 @@
 
 **Внимание!** Выберите окно "Headset Window" или нажмите "F7" для работы драйвера.
 ## Управление
-![(https://user-images.githubusercontent.com/9499881/78459634-600b1880-76cb-11ea-9ba8-efb6cff657a2.PNG)
+![](https://user-images.githubusercontent.com/9499881/78459634-600b1880-76cb-11ea-9ba8-efb6cff657a2.PNG)
 
 Кнопка | Описание | Обозначение в VR
 ------------ | ------------- | -------------
