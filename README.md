@@ -19,7 +19,7 @@ After installing SteamVR and TrueOpenVR, need to go to the SteamVR state window 
 
 Also must add launch options.
 
-For Steam, go to the game’s properties, click on the launch options and enter `+ vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" +vr_gg_gesture_pull 0`.
+For Steam, go to the game’s properties, click on the launch options and enter `+vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" +vr_gg_gesture_pull 0`.
 
 
 After starting the console, must enter the console `vr_gg_gesture_pull 0`. This is necessary so that objects are [pulled up without movement](https://youtu.be/RWQbwlXjtjI).
