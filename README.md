@@ -38,7 +38,8 @@ Left mouse button or Numpad 1 | Shooting or hold right-handed items | Right Cont
 Right mouse button | The movement mode of the left controller also activates hold on the left mouse button | Trigger and movement of the left controller
 Middle mouse button | Weapon selection mode | Pressing up the touch panel of the right controller
 Space | Teleport | Pressing the bottom of the touch panel of the right controller
-Right control | Sit down | Sit down
+Right control | Aiming | Moving the right controller and rotating
+Menu key | Sit down | Sit down
 Right Shift | Hold of items by the left controller and pulling up items (you must use the command above, read the setting) | Left Controller Trigger
 Enter | Actions of some items | Left Controller Menu
 Escape | Game menu | Left Controller Grip
