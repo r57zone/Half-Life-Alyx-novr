@@ -64,7 +64,7 @@ Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) prob
 
 
 
-Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues)[closing] and (https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
+Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
 
 ## Game in 3D 
 You can stream game play 3D to smartphone, for example, through the application Moonlight (for Nvidia 600 series +) or Trinus.
