@@ -49,10 +49,12 @@ Numpad 3 | Actions of some items | Right Controller Grip
 "'" | Fixing left controller in place (Part 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
 ";" | Movement of the left controller forward (for throwing objects) | Movement of the left controller forward
+Delete and End | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
 "{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 "}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
+Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - part 5: North Star), reset after use | Rotation of both controllers
 "Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
 
