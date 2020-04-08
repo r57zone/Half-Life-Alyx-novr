@@ -3,10 +3,10 @@
 # Half Life Alyx no VR driver
 Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. It is not clear yet whether it will be possible to go through the whole game in this way, but if in some place a problem arises, can use saves or other methods to bypass the problem moment in the game.
 
-[![](https://user-images.githubusercontent.com/9499881/78283334-ad9e4e80-752e-11ea-8aea-a2cf18eae511.gif)](https://youtu.be/-8tchjRHSrA) 
-[![](https://user-images.githubusercontent.com/9499881/78290591-fce77d80-7534-11ea-9b2f-f80d3b2c176a.gif)](https://youtu.be/-8tchjRHSrA)
-[![](https://user-images.githubusercontent.com/9499881/78290158-57340e80-7534-11ea-9b9a-bdc3b558ac17.gif)](https://youtu.be/BkFEMmqxKlU)
-[![](https://user-images.githubusercontent.com/9499881/78291122-e7bf1e80-7535-11ea-9a6a-8621f6ddee68.gif)](https://youtu.be/-8tchjRHSrA)
+[![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://youtu.be/-8tchjRHSrA) 
+[![](https://user-images.githubusercontent.com/9499881/78796945-191d6b80-79c8-11ea-814e-06dc439a6e96.gif)](https://youtu.be/-8tchjRHSrA)
+[![](https://user-images.githubusercontent.com/9499881/78796953-1ae72f00-79c8-11ea-8ea1-e923c0b5c10b.gif)](https://youtu.be/BkFEMmqxKlU)
+[![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://youtu.be/-8tchjRHSrA)
 
 ## Setup
 Detailed setup process can be seen in [this video](https://youtu.be/66HIE3DFfjo). 
@@ -46,17 +46,19 @@ Escape | Game menu | Left Controller Grip
 Numpad 3 | Actions of some items | Right Controller Grip
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
-"'" | Fixing left controller in place (Part 5: North Star) | fixing left controller in space
+"'" | Fixing left controller in place (Chapter 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
 ";" | Movement of the left controller forward (for throwing objects) | Movement of the left controller forward
 Delete and End | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
+Numpad - | Reset move down and up | Return to position before moving
 "{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 "}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - part 5: North Star), reset after use | Rotation of both controllers
 "Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
+"P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
 
 ## Saves or workarounds for problem areas
 Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves. Saves can be placed in ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) with the prefix "[Save]" Level name and screenshot, also can add label - "Saves".
