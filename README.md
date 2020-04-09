@@ -1,7 +1,7 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
 # Half Life: Alyx non VR driver
-Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. It is not clear yet whether it will be possible to go through the whole game in this way, but if in some place a problem arises, can use saves or other methods to bypass the problem moment in the game.
+Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. Passable 10 chapters, 11 in testing phase.
 
 [![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://youtu.be/K_I5fm-cT6Y)
 [![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://youtu.be/-8tchjRHSrA) 
@@ -50,7 +50,7 @@ Numpad 3 | Actions of some items | Right Controller Grip
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 "'" | Fixing left controller in place (Chapter 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
-";" | Movement of the left controller forward (for throwing objects) | Movement of the left controller forward
+";" | Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
 Delete and End | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
