@@ -1,6 +1,6 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
-# Half Life Alyx no VR driver
+# Half Life: Alyx non VR driver
 Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. It is not clear yet whether it will be possible to go through the whole game in this way, but if in some place a problem arises, can use saves or other methods to bypass the problem moment in the game.
 
 [![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://youtu.be/K_I5fm-cT6Y)
@@ -61,6 +61,7 @@ Insert and Home | The movement of the controller forward and backward | The move
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - part 5: North Star), reset after use | Rotation of both controllers
 "Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
 "P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
+"L" | Mode for clearing lasers (reduced sensitivity and moving on forward and backward arrows) | Move the right controller
 
 ## Saves or workarounds for problem areas
 Share via ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) problem areas, methods for solving them and saves. Saves can be placed in ["issues"](https://github.com/r57zone/Half-Life-Alyx-novr/issues) with the prefix "[Save]" Level name and screenshot, also can add label - "Saves".
