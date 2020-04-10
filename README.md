@@ -66,31 +66,26 @@ Insert and Home | The movement of the controller forward and backward | The move
 
 ## Walkthrough difficulties
 • **Chapter 5: North star (power off)**
-
 First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then raise the lever (left and right mouse button + look up or Insert and Home) and lock the controller ("'").
 
 
 
 • **Chapter 6: the arms Race (lasers)**
-
 For lasers, you must use the separate mode ("L"). Move up, down, right and left with the mouse, and move forward and back with the buttons (up, down). Laser clearance can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=11).
 
 
 
 • **Chapter 7: Jeff (opening the bunker)**
-
 This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ("}")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of passing this point can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). 
 
 
 
 • **Chapter 10: Breaking and entering (battle with the spider)**
-
 We grab the weapon with the right controller and direct it towards the spider, higher. Next, in the mode, grab the reload lever and move it up and down, one at a time (by looking at or using the buttons for moving the controllers up and down "{" ,"}", in the mode for moving the left controller, the left and right mouse buttons). It is extremely important to aim the weapon higher to get into the final ball launched by the spider.
 
 
 
 • **Not enough health**
-
 If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `-allowdebug -vconport 29000 -vcon-console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after passing a difficult place by entering the `god` command again.
 
 
