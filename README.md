@@ -53,11 +53,9 @@ Backspace | Health and ammo display | Left controller rotation
 ";" | Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
 End | The throw of the energy ball (Chapter 11: Point Extraction) | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
-PageUP | Move up | Moving controllers and heads up
-PageDown | Move down | Move controllers and heads down
+PageUP and PageDown | Move up and down | Moving controllers and head up and down
 Numpad - | Reset move down and up | Return to position before moving
-"{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
-"}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
+"{" and "}"  | Moving the left controller up and down, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - Сhapter 5: North Star), reset after use | Rotation of both controllers
 "Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
