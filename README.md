@@ -1,6 +1,6 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
-# Half Life: Alyx non VR driver
+# Half-Life: Alyx non VR mod (driver)
 Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. This method allows to complete the game and try out VR mechanics. Some moments will make sweat, but they are passable in this way.
 
 [![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://youtu.be/K_I5fm-cT6Y)
@@ -48,10 +48,10 @@ Escape | Game menu | Left Controller Grip
 Numpad 3 | Actions of some items | Right Controller Grip
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
-"'" | Fixing left controller in place (Chapter 5: North Star) | fixing left controller in space
+"'" | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
 ";" | Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
-End | The throw of the energy ball (part 11) | Left controller movement
+End | The throw of the energy ball (Chapter 11: Point Extraction) | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP | Move up | Moving controllers and heads up
 PageDown | Move down | Move controllers and heads down
@@ -59,13 +59,13 @@ Numpad - | Reset move down and up | Return to position before moving
 "{" | Moving the left controller up, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 "}" | Moving the left controller down, in the movement mode of the left controller (right mouse button) | Move the left controller down in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
-"U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - part 5: North Star), reset after use | Rotation of both controllers
+"U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - Сhapter 5: North Star), reset after use | Rotation of both controllers
 "Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
 "P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
 "L" | Mode for clearing lasers (reduced sensitivity and moving on forward and backward arrows) | Move the right controller
 
 ## Walkthrough difficulties
-• **Part 5: North star (power off)**
+• **Chapter 5: North star (power off)**
 
 First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then raise the lever (left and right mouse button + look up or Insert and Home) and lock the controller ("'").
 
@@ -79,7 +79,7 @@ For lasers, you must use the separate mode ("L"). Move up, down, right and left 
 
 • **Chapter 7: Jeff (opening the bunker)**
 
-This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ( " }")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of passing this point can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). 
+This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ("}")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of passing this point can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). 
 
 
 
@@ -91,11 +91,11 @@ We grab the weapon with the right controller and direct it towards the spider, h
 
 • **Not enough health**
 
-If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `- allowdebug -vconport 29000 -vcon-console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after passing a difficult place by entering the `god` command again.
+If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `-allowdebug -vconport 29000 -vcon-console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after passing a difficult place by entering the `god` command again.
 
 
 
-Also [Saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/issues) to skip difficult moments of the game.
+Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/issues) to skip difficult moments of the game.
 ## Problems
 **Red screen** - switch the focus to the game, press the left mouse button and then switch again to the "Headset window". Also can change the "DebugMode" parameter to true, in the "default.vrsettings" configuration file.
 
