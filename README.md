@@ -31,7 +31,7 @@ In the game settings, you need to select "Movement: Smooth" (for smooth walking 
 
 **Warning!** Select the "Headset Window" or press "F7" for the driver to work.
 ## Control
-![](https://user-images.githubusercontent.com/9499881/78505763-9e194280-7786-11ea-93ac-bbefaa656eca.PNG)
+![](https://user-images.githubusercontent.com/9499881/79045456-45c9c100-7c1c-11ea-87ba-4d4d863b08c5.PNG)
 
 Button | description | Designation in VR
 ------------ | ------------- | -------------
