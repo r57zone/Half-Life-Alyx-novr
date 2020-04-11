@@ -51,7 +51,7 @@ Numpad 3 | Actions of some items | Right Controller Grip
 "'" | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
 ";" | Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
-End | The throw of the energy ball (Chapter 11: Point Extraction) | Left controller movement
+End | Throwing an energy ball (chapter 11: Departure), if it doesn’t work, try to click quickly several times or set "DebugMode" to true in the "default.vrsettings" config | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP and PageDown | Move up and down | Moving controllers and head up and down
 Numpad - | Reset move down and up | Return to position before moving
