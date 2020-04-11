@@ -61,6 +61,7 @@ Insert and Home | The movement of the controller forward and backward | The move
 "Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
 "P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
 "L" | Mode for clearing lasers (reduced sensitivity and moving on forward and backward arrows) | Move the right controller
+"O" | Left hand cell (use with right hand trigger) | Moving the right controller
 
 ## Walkthrough difficulties
 • **Chapter 5: North star (power off)**
