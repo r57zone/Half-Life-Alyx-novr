@@ -30,6 +30,11 @@ In the game settings, you need to select "Movement: Smooth" (for smooth walking 
 
 
 **Warning!** Select the "Headset Window" or press "F7" for the driver to work.
+
+
+
+Also do not forget to set the resolution (1920x1080) for full screen mode. You can see how it is configured in more detail [here](https://youtu.be/K_I5fm-cT6Y?t=2).
+
 ## Control
 ![](https://user-images.githubusercontent.com/9499881/79045456-45c9c100-7c1c-11ea-87ba-4d4d863b08c5.PNG)
 
