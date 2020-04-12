@@ -3,12 +3,12 @@
 # Half-Life: Alyx без VR мод (драйвер)
 Драйвер позволяющий играть в [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) без VR, на клавиатуре и мыши. Таким методом можно полностью пройти игру и попробовать VR механики. Некоторые моменты заставят вас попотеть, но и они проходимы данным способом. 
 
-[![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://youtu.be/K_I5fm-cT6Y)
-[![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://youtu.be/-8tchjRHSrA) 
-[![](https://user-images.githubusercontent.com/9499881/78798825-7aded500-79ca-11ea-9b87-565c23896ec8.gif)](https://youtu.be/K_I5fm-cT6Y)
-[![](https://user-images.githubusercontent.com/9499881/78796945-191d6b80-79c8-11ea-814e-06dc439a6e96.gif)](https://youtu.be/-8tchjRHSrA)
-[![](https://user-images.githubusercontent.com/9499881/78796953-1ae72f00-79c8-11ea-8ea1-e923c0b5c10b.gif)](https://youtu.be/BkFEMmqxKlU)
-[![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://youtu.be/-8tchjRHSrA)
+[![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
+[![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
+[![](https://user-images.githubusercontent.com/9499881/78798825-7aded500-79ca-11ea-9b87-565c23896ec8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
+[![](https://user-images.githubusercontent.com/9499881/78796945-191d6b80-79c8-11ea-814e-06dc439a6e96.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
+[![](https://user-images.githubusercontent.com/9499881/78796953-1ae72f00-79c8-11ea-8ea1-e923c0b5c10b.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
+[![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
 ## Настройка
 Процесс детальной настройки можно увидеть в [этом видео](https://youtu.be/66HIE3DFfjo). 
