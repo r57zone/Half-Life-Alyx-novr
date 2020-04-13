@@ -11,7 +11,7 @@ Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/54
 [![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
 ## Setup
-Detailed setup process can be seen in [this video](https://youtu.be/66HIE3DFfjo). 
+Detailed setup process can be seen in [this video](https://youtu.be/66HIE3DFfjo). **Also do not forget the instructions below.**
 
 
 
@@ -29,12 +29,11 @@ In the game settings, you need to select "Movement: Smooth" (for smooth walking 
 
 
 
-**Warning!** Select the "Headset Window" or press "F7" for the driver to work.
-
-
-
 Also do not forget to set the resolution (1920x1080) for full screen mode. You can see how it is configured in more detail [here](https://youtu.be/K_I5fm-cT6Y?t=2).
 
+
+
+**Warning!** Select the "Headset Window" or press "F7" for the driver to work.
 ## Control
 ![](https://user-images.githubusercontent.com/9499881/79045456-45c9c100-7c1c-11ea-87ba-4d4d863b08c5.PNG)
 
