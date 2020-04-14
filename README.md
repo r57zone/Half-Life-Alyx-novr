@@ -11,7 +11,7 @@ Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/54
 [![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
 ## Setup
-The detailed configuration process can be found in [this instruction with video materials](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.md) or [detailed text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
+The setup process can be seen in [this instruction with video materials](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.md) or [detailed text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
 
 Follow each item carefully.
 

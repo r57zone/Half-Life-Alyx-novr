@@ -11,7 +11,7 @@
 [![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
 ## Настройка
-Процесс детальной настройки можно в [этой инструкции с видеоматериалами](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.RU.md) или [детальной текстовой инструкции](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.RU.md).
+Процесс настройки можно увидеть в [этой инструкции с видеоматериалами](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.RU.md) или [детальной текстовой инструкции](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.RU.md).
 
 Внимательно следуйте каждому из пунктов.
 
