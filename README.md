@@ -74,6 +74,12 @@ First you need to pull the pipe out of the wheel. Then go down a bit using the "
 
 
 
+• **Chapter 4: Superweapon (throw grenade into the ventilation)**
+
+You can simply put the grenade up by using the "PageUP" buttons and go down then by pressing the "Numpad -" button.
+
+
+
 • **Chapter 5: North star (power off)**
 
 First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then raise the lever (left and right mouse button + look up or Insert and Home) and lock the controller ("'").
