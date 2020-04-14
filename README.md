@@ -52,7 +52,7 @@ Insert and Home | The movement of the controller forward and backward | The move
 ## Walkthrough difficulties
 • **Chapter 3: Is Or Will Be (fix the wheel)**
 
-First you need to pull the pipe out of the wheel. Then go down a bit using the "PageDown" button. Scroll the wheel with RShift and look. After the necessary rotation, fix the hand using the " ' " button. Holding "RShift" and " ' ", raise the pipe in your right hand (left mouse button). Still holding all three buttons, slightly tilt the pipe down using the "J" button, and then insert the pipe using the "Insert" button (forward controllers move). The whole process of passing this moment can be seen in [this video](https://youtu.be/70ok-78S2pA).
+First you need to pull the pipe out of the wheel. Then go down a bit using the "PageDown" button. Scroll the wheel with RShift and look. After the necessary rotation, fix the hand using the " ' " button. Holding "RShift" and " ' ", raise the pipe in your right hand (left mouse button). Still holding all three buttons, slightly tilt the pipe down using the "J" button, and then insert the pipe using the "Insert" button (forward controllers move). The whole process of walkthrough this moment can be seen in [this video](https://youtu.be/70ok-78S2pA).
 
 
 
