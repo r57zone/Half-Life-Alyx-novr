@@ -8,7 +8,7 @@
 7. Start SteamVR and in the SteamVR status window, click -> Room Settings -> Small Room -> Calibration -> 170 cm.
 8. For Steam, go to the game properties, click on the launch options and enter `+ vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" + vr_gg_gesture_pull 0`. This is necessary so that the objects [pulled up on one button](https://youtu.be/RWQbwlXjtjI).
 9. Run the game, select the game and click on it, then press ALT + TAB and switch to the "Headset Window" and click. The SteamVR status window and SteamVR messages can be hidden.
-10. In the settings of the games, select "Movement: Sliding" (for smooth walking as in regular games).
+10. In the game settings select "Movement: Sliding" (for smooth walking as in regular games).
 
 Also study the descriptions of the buttons, if you cannot pass at some point, read the instructions and see the walkthrough manuals on [youtube](https://www.youtube.com/channel/UCcuoRRWRvb7xUuMzrEqCZ5w).
 
