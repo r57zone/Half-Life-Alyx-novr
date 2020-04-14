@@ -106,5 +106,9 @@ Insert и Home | Движение контроллеров вперед и на�
 >Версия для TrueOpenVR & SteamVR.<br>
 **[Загрузить](https://github.com/r57zone/Half-Life-Alyx-novr/releases)**
 
+## Медиа о проекте
+[Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), 
+[Российская газета](https://rg.ru/2020/04/13/half-life-alyx-polnostiu-adaptirovali-dlia-igry-s-myshiu-i-klaviaturoj.html), [Регнум](https://regnum.ru/news/society/2914484.html), [3dnews](https://3dnews.ru/1008242), [Игромания](https://www.igromania.ru/news/92675/Drayver_dlya_Half-Life_Alyx_pozvolyaet_proyti_igru_bez_VR-shlema.html) и [другие](https://www.google.com/search?q=r57zone&tbm=nws). Спасибо всем за публикации.
+
 ## Обратная связь
 `r57zone[собака]gmail.com`
