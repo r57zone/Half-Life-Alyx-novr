@@ -8,3 +8,6 @@
 7. In the settings of the games, select "Movement: Sliding" (for smooth walking as in regular games).
 
 Also study the descriptions of the buttons, if you cannot pass at some point, read the instructions and see the walkthrough manuals on [youtube](https://www.youtube.com/channel/UCcuoRRWRvb7xUuMzrEqCZ5w).
+
+
+If you are running SteamVR Home, then go into SteamVR settings and disable its autostart when SteamVR starts.
