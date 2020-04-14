@@ -14,4 +14,5 @@
 
 
 
-Другие инструкции: [От Holdy](https://youtu.be/oM2a9sBC3V0?t=71).
+## Другие инструкции:
+[От Holdy](https://youtu.be/oM2a9sBC3V0?t=71).

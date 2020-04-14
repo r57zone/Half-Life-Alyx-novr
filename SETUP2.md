@@ -14,6 +14,6 @@ If you are running SteamVR Home, then go into SteamVR settings and disable its a
 
 
 
-Other instructions:
+## Other instructions:
 
-**(Portugese Brazilian)**[by DragonSoldier](https://youtu.be/YQ0EpmVl4Qc)
+**(Portugese Brazilian)** [by DragonSoldier](https://youtu.be/YQ0EpmVl4Qc)
