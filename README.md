@@ -76,7 +76,7 @@ For lasers, you must use the separate mode ("L"). Move up, down, right and left 
 
 • **Chapter 7: Jeff (opening the bunker)**
 
-This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ("}")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of passing this point can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). 
+This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ("}")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of walkthrough this moment can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). 
 
 
 
@@ -88,7 +88,7 @@ We grab the weapon with the right controller and direct it towards the spider, h
 
 • **Not enough health**
 
-If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `-allowdebug -vconport 29000 -vcon-console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after passing a difficult place by entering the `god` command again.
+If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `-allowdebug -vconport 29000 -vcon-console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after walkthrough a difficult place by entering the `god` command again.
 
 
 
