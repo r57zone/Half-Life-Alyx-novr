@@ -68,6 +68,12 @@ Insert and Home | The movement of the controller forward and backward | The move
 "O" | Left hand cell (use with right hand trigger) | Moving the right controller
 
 ## Walkthrough difficulties
+• **Chapter 3: Is Or Will Be (fix the wheel)**
+
+First you need to pull the pipe out of the wheel. Then go down a bit using the "PageDown" button. Scroll the wheel with RShift and look. After the necessary rotation, fix the hand using the " ' " button. Holding "RShift" and " ' ", raise the pipe in your right hand (left mouse button). Still holding all three buttons, slightly tilt the pipe down using the "J" button, and then insert the pipe using the "Insert" button (forward controllers move). The whole process of passing this moment can be seen in [this video](https://youtu.be/70ok-78S2pA).
+
+
+
 • **Chapter 5: North star (power off)**
 
 First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then raise the lever (left and right mouse button + look up or Insert and Home) and lock the controller ("'").
