@@ -11,29 +11,10 @@ Driver allows to play in [Half-Life: Alyx](https://store.steampowered.com/app/54
 [![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
 ## Setup
-Detailed setup process can be seen in [this video](https://youtu.be/66HIE3DFfjo). **Also do not forget the instructions below.**
+The detailed configuration process can be found in [this instruction with video materials](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.md) or [detailed text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
 
+Follow each item carefully.
 
-
-After installing SteamVR and TrueOpenVR, need to go to the SteamVR state window -> Setup room -> Small room -> Calibrate-> 170cm.
-
-
-
-Also must add launch options.
-
-For Steam, go to the game’s properties, click on the launch options and enter `+vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" +vr_gg_gesture_pull 0`.
-
-
-
-In the game settings, you need to select "Movement: Smooth" (for smooth walking as in regular games).
-
-
-
-Also do not forget to set the resolution (1920x1080) for full screen mode. You can see how it is configured in more detail [here](https://youtu.be/K_I5fm-cT6Y?t=2).
-
-
-
-**Warning!** Select the "Headset Window" or press "F7" for the driver to work.
 ## Control
 ![](https://user-images.githubusercontent.com/9499881/79045456-45c9c100-7c1c-11ea-87ba-4d4d863b08c5.PNG)
 
