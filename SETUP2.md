@@ -1,5 +1,5 @@
 ﻿# Setup
-1. Install [SteamVR] (https://store.steampowered.com/app/250820/SteamVR/).
+1. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
 2. Follow the instructions of [this video](https://youtu.be/66HIE3DFfjo)
 3. Set the resolution (1920x1080 or other necessary for you) for fullscreen mode. You can see how it is configured in more detail [here](https://youtu.be/K_I5fm-cT6Y?t=2).
 4. SteamVR starts and in the SteamVR status window click -> Room settings -> Small room -> Calibration -> 170 cm.
