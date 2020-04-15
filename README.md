@@ -25,12 +25,12 @@ Left mouse button or Numpad 1 | Shooting or hold right-handed items | Right Cont
 Right mouse button | The movement mode of the left controller also activates hold on the left mouse button | Trigger and movement of the left controller
 Middle mouse button | Weapon selection mode | Pressing up the touch panel of the right controller
 Space | Teleport | Pressing the bottom of the touch panel of the right controller
-Right control | Aiming | Moving the right controller and rotating
-Numpad 0 or Menu key | Sit down | Sit down
+Right control | Sit down | Sit down
+Delete | Aiming | Moving the right controller and rotating
 Right Shift | Hold of items by the left controller and pulling up items (you must use the command above, read the setting) | Left Controller Trigger
 Enter | Actions of some items | Left Controller Menu
 Escape | Game menu | Left Controller Grip
-Numpad 3 | Actions of some items | Right Controller Grip
+Numpad 0 | Actions of some items | Right Controller Grip
 Numpad "." | Reloading a gun and some action items | Right Controller Menu
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
