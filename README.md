@@ -16,12 +16,12 @@ The setup process can be seen in [this instruction with video materials](https:/
 Follow each item carefully.
 
 ## Control
-![](https://user-images.githubusercontent.com/9499881/79045456-45c9c100-7c1c-11ea-87ba-4d4d863b08c5.PNG)
+![](https://user-images.githubusercontent.com/9499881/79338102-bbdd6900-7f37-11ea-9a44-cf36537ed430.PNG)
 
 Button | description | Designation in VR
 ------------ | ------------- | -------------
 Up, down, left and right | Going forward, backward, left and right | Touch panel of the left controller, with clicks on it
-Left mouse button or Numpad 1 | Shooting or hold right-handed items | Right Controller Trigger
+Left mouse button or Numpad 1 or ALT | Shooting or hold right-handed items | Right Controller Trigger
 Right mouse button | The movement mode of the left controller also activates hold on the left mouse button | Trigger and movement of the left controller
 Middle mouse button | Weapon selection mode | Pressing up the touch panel of the right controller
 Space | Teleport | Pressing the bottom of the touch panel of the right controller
@@ -30,8 +30,8 @@ Delete | Aiming | Moving the right controller and rotating
 Right Shift | Hold of items by the left controller and pulling up items (you must use the command above, read the setting) | Left Controller Trigger
 Enter | Actions of some items | Left Controller Menu
 Escape | Game menu | Left Controller Grip
-Numpad 0 | Actions of some items | Right Controller Grip
-Numpad "." | Reloading a gun and some action items | Right Controller Menu
+Numpad 0 or "<" | Actions of some items | Right Controller Grip
+Numpad "." or ">" | Reloading a gun and some action items | Right Controller Menu
 "?" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
 "\|" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 "'" | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
@@ -40,7 +40,7 @@ Backspace | Health and ammo display | Left controller rotation
 End | Throwing an energy ball (chapter 11: Departure), if it doesn’t work, try to click quickly several times | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP and PageDown | Move up and down | Moving controllers and head up and down
-Numpad - | Reset move down and up | Return to position before moving
+Numpad "-" или "-" | Reset move down and up | Return to position before moving
 "{" and "}"  | Moving the left controller up and down, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - Сhapter 5: North Star), reset after use | Rotation of both controllers
