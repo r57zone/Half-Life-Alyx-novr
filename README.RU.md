@@ -15,6 +15,10 @@
 
 Внимательно следуйте каждому из пунктов.
 
+
+
+О **редактировании привязки клавиш** можно прочитать [здесь](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.RU.md).
+
 ## Управление
 ![](https://user-images.githubusercontent.com/9499881/79338102-bbdd6900-7f37-11ea-9a44-cf36537ed430.PNG)
 
