@@ -114,6 +114,10 @@ Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/i
 
 
 
+**Enemies run fast, fast animations** - close the game and close SteamVR. Now open SteamVR and only then open "Half-Life: Alyx".
+
+
+
 **SteamVR Home** - automatic start can be disabled in the SteamVR settings.
 
 
