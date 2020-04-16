@@ -17,7 +17,7 @@ Follow each item carefully.
 
 
 
-Read about editing key bindings can [here](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.md).
+Read about **editing key bindings** can [here](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.md).
 
 ## Control
 ![](https://user-images.githubusercontent.com/9499881/79338102-bbdd6900-7f37-11ea-9a44-cf36537ed430.PNG)

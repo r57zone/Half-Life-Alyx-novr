@@ -7,11 +7,11 @@ Find the desired action and enter a new key code.
 ## Codes
 Mouse button name | Code
 ------------ | -------------
-Левая кнопка | 1
-Правая кнопка | 2
-Средняя кнопка | 4
-Боковая кнопка | 5
-Боковая кнопка 2 | 6
+Left button | 1
+Right button | 2
+Middle button | 4
+Side button | 5
+Side button 2 | 6
 
 
 Keyboard key name | Сode
@@ -59,11 +59,11 @@ ScrollLock | 145
 7 & | 55
 8 * | 56
 9 ( | 57
-` ~ | 192
-- _ | 189
+~ | 192
+- | 189
 = + | 187
-[ { | 219
-] } | 221
+{ | 219
+} | 221
 ; : | 186
 ‘ « | 222
 \ | | 220
