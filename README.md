@@ -122,7 +122,7 @@ Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/i
 
 
 
-**The game or SteamVR don't start ** - restart the computer or close Steam, SteamVR and the game in the task manager, if any.
+**The game or SteamVR don't start** - restart the computer or close Steam, SteamVR and the game in the task manager, if any.
 
 
 
