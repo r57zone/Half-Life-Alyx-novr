@@ -98,18 +98,18 @@ y Y | 89
 z Z | 90
 Win (left) | 91
 Win (right) | 92
-0 | 96
-1 | 97
-2 | 98
-3 | 99
-4 | 100
-5 | 101
-6 | 102
-7 | 103
-8 | 104
-9 | 105
-star | 106
-+ | 107
-- | 108
-. | 109
-/ | 110
+Numpad 0 | 96
+Numpad 1 | 97
+Numpad 2 | 98
+Numpad 3 | 99
+Numpad 4 | 100
+Numpad 5 | 101
+Numpad 6 | 102
+Numpad 7 | 103
+Numpad 8 | 104
+Numpad 9 | 105
+Numpad multiply | 106
+Numpad plus | 107
+Numpad minus | 108
+Numpad del | 109
+Numpad div | 110
