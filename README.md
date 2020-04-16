@@ -122,6 +122,10 @@ Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/i
 
 
 
+**The game or SteamVR don't start ** - restart the computer or close Steam, SteamVR and the game in the task manager, if any.
+
+
+
 Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
 
 ## Game in 3D 
