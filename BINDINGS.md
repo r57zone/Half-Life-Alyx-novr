@@ -4,6 +4,9 @@ Open the file "HalfLifeAlyx.ini" in the folder "...\TrueOpenVR\Settings\Drivers"
 Find the desired action and enter a new key code.
 
 
+
+**Warning! The "S" button is used by SteamVR, so arrows are used to move, not WASD.
+
 ## Codes
 Mouse button name | Code
 ------------ | -------------
