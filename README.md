@@ -92,7 +92,7 @@ We grab the weapon with the right controller and direct it towards the spider, h
 
 • **Not enough health**
 
-If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `-allowdebug -vconport 29000 -vcon-console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after walkthrough a difficult place by entering the `god` command again.
+If you are stuck and can't pass one of the hard moments, then you can use the immortality cheat code. To do this, you need to launch the game from the console. Add the launch parameters to the game `-allowdebug -vconport 29000 -vcon -console`, enter `sv_cheats 1` and then `god`, after which you will be immortal and easily pass the difficult moments. Do not forget to disable the immortality mode after walkthrough a difficult place by entering the `god` command again.
 
 
 
