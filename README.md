@@ -38,7 +38,7 @@ Numpad 0 or "<" | Actions of some items | Right Controller Grip
 Numpad "." or ">" | Reloading a gun and some action items | Right Controller Menu
 "\|" | Using a first aid kit syringe, use after pressing "Enter" | Rotate and move to the right side of the left controller
 "?" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
-"'" | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
+" ' " | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
 ";" | Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
 End | Throwing an energy ball (chapter 11: Departure), if it doesn’t work, try to click quickly several times | Left controller movement
