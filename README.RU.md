@@ -1,7 +1,7 @@
 ﻿[![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
 # Half-Life: Alyx без VR мод (драйвер)
-Первый драйвер позволяющий пройти [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) без VR, на клавиатуре и мыши. Таким методом можно полностью пройти игру и попробовать VR механики. Некоторые моменты заставят вас попотеть, но и они проходимы данным способом.
+Первый драйвер позволяющий пройти [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) без VR, на клавиатуре и мыши. Этот способ позволяет полностью пройти игру и попробовать VR механики. Некоторые моменты заставят вас попотеть, но и они проходимы данным способом. Также этот метод позволяет получить весьма интересный и необычный геймплей (местами похожий на Amnesia или Penumbra), которого к сожалению почти не бывает в обычных играх. Я прошёл игру в VR и проходил её таким образом, и я нахожу оба опыта весьма интересными.
 
 [![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
