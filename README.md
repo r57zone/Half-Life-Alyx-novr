@@ -68,7 +68,7 @@ You can simply put the grenade up by using the "PageUP" buttons and go down then
 
 • **Chapter 5: North star (power off)**
 
-First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then raise the lever (left and right mouse button + look up or Insert and Home) and lock the controller ("'").
+First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then raise the lever (left and right mouse button + look up or Insert and Home) and lock the controller (" ' "). The process of walkthrough this moment can be seen in [this video](https://youtu.be/K9PDUqsrAbQ?t=85).
 
 
 
