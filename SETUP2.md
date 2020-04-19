@@ -2,7 +2,7 @@
 1. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
 2. Follow the instructions of [this video](https://youtu.be/66HIE3DFfjo)
 3. Set the resolution (1920x1080 or other necessary for you) for fullscreen mode. You can see how it is configured in more detail [here](https://youtu.be/K_I5fm-cT6Y?t=2).
-4. If necessary, reduce the field of view by [changing "renderHeight"](https://youtu.be/8f_2GkruPdU) (increasing). 
+4. If necessary reduce the field of view by [changing "renderHeight"](https://youtu.be/8f_2GkruPdU) (increasing) or [increasing the zoom](https://youtu.be/wsJl_ODPSPI) (changing "ZoomWidth" and "ZoomHeight"). 
 5. SteamVR starts and in the SteamVR status window click -> Room settings -> Small room -> Calibration -> 170 cm. The SteamVR tutorial can be closed, and SteamVR Home is disabled in the SteamVR settings.
 6. For Steam, go to the game properties, click on the launch options and enter `+ vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe"+ vr_gg_gesture_pull 0`. This is necessary so that objects are [pulled up by one button](https://youtu.be/RWQbwlXjtjI).
 7. Run the game, select the game and click on it, then press ALT + TAB and switch to the "Headset Window" and click. The SteamVR status window and SteamVR messages can be hidden.

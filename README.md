@@ -114,6 +114,18 @@ Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/i
 
 
 
+**Using WASD** - the "S" button is used SteamVR, so I had to use the arrows.
+
+
+
+**Large viewing angle** - it can be changed [this way](https://youtu.be/wsJl_ODPSPI) or [this way](https://youtu.be/8f_2GkruPdU).
+
+
+
+**Black corners** - they can partially be removed [this way](https://youtu.be/wsJl_ODPSPI).
+
+
+
 **SteamVR Home** - automatic start can be disabled in the SteamVR settings.
 
 
