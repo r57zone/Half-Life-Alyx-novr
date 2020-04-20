@@ -96,7 +96,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/issues) to skip difficult moments of the game.
+Also [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aopen+label%3ASaves) to skip difficult moments of the game.
 ## Problems
 **Red screen** - switch the focus to the game "Half-Life: Alyx" via ALT + TAB, press the left mouse button and then switch back to the "Headset window". You can also change the "DebugMode" parameter to true, in the "default.vrsettings" configuration file, if there are any problems with the red screen. Minimize all SteamVR notifications so they don’t interfere.
 
