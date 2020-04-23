@@ -20,7 +20,7 @@ Follow each item carefully.
 Read about **editing key bindings** can [here](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.md).
 
 ## Control
-![](https://user-images.githubusercontent.com/9499881/79338102-bbdd6900-7f37-11ea-9a44-cf36537ed430.PNG)
+![](https://user-images.githubusercontent.com/9499881/80138064-4ae02600-85b5-11ea-9704-c8e2289a7668.PNG)
 
 Button | description | Designation in VR
 ------------ | ------------- | -------------
@@ -29,13 +29,13 @@ Left mouse button or Numpad 1 or ALT | Shooting or hold right-handed items | Rig
 Right mouse button | The movement mode of the left controller also activates hold on the left mouse button | Trigger and movement of the left controller
 Middle mouse button | Weapon selection mode | Pressing up the touch panel of the right controller
 Space | Teleport | Pressing the bottom of the touch panel of the right controller
-Right control | Sit down | Sit down
+Right control | Crouch | Crouch
 Delete | Aiming | Moving the right controller and rotating
 Right Shift | Hold of items by the left controller and pulling up items (you must use the command above, read the setting) | Left Controller Trigger
 Enter | Actions of some items | Left Controller Menu
 Escape | Game menu | Left Controller Grip
-Numpad 0 or "<" | Actions of some items | Right Controller Grip
-Numpad "." or ">" | Reloading a gun and some action items | Right Controller Menu
+Numpad 0 | Actions of some items | Right Controller Grip
+Numpad "." | Reloading a gun and some action items | Right Controller Menu
 "\|" | Using a first aid kit syringe | Rotate and move to the right side of the left controller
 "?" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 " ' " | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
@@ -52,6 +52,9 @@ Insert and Home | The movement of the controller forward and backward | The move
 "P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
 "L" | Mode for clearing lasers (reduced sensitivity and moving on forward and backward arrows) | Move the right controller
 "O" | Left hand cell (use with right hand trigger) | Moving the right controller
+"N", "M" | turn left, turn right | Pressing the left and right touch panels of the right controller
+
+If you don't have Numpad keys or there are additional buttons on the mouse then you can use other key bindings, ready-made profiles already have a driver archive.
 
 ## Walkthrough difficulties
 • **Chapter 3: Is Or Will Be (fix the wheel)**
@@ -146,7 +149,7 @@ You can stream game play 3D to smartphone, for example, through the application 
 
 ## Media about the project
 [Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), 
-[Российская газета](https://rg.ru/2020/04/13/half-life-alyx-polnostiu-adaptirovali-dlia-igry-s-myshiu-i-klaviaturoj.html), [Регнум](https://regnum.ru/news/society/2914484.html), [MediaLeaks](https://medialeaks.ru/news/1304mmg-half-life-alyx-pc/), [3dnews](https://3dnews.ru/1008242), [Games.Mail](https://games.mail.ru/pc/news/2020-04-13/vyshel-pervyj-mod-pozvolyayushij-projti-half-life-alyx-bez-vr-shlema/), [Игромания](https://www.igromania.ru/news/92675/Drayver_dlya_Half-Life_Alyx_pozvolyaet_proyti_igru_bez_VR-shlema.html) and [others](https://www.google.com/search?q=r57zone&tbm=nws).
+[Российская газета](https://rg.ru/2020/04/13/half-life-alyx-polnostiu-adaptirovali-dlia-igry-s-myshiu-i-klaviaturoj.html), [Регнум](https://regnum.ru/news/society/2914484.html), [MediaLeaks](https://medialeaks.ru/news/1304mmg-half-life-alyx-pc/), [3dnews](https://3dnews.ru/1008242), [Games.Mail](https://games.mail.ru/pc/news/2020-04-13/vyshel-pervyj-mod-pozvolyayushij-projti-half-life-alyx-bez-vr-shlema/), [Игромания](https://www.igromania.ru/news/92675/Drayver_dlya_Half-Life_Alyx_pozvolyaet_proyti_igru_bez_VR-shlema.html), [4pda](https://4pda.ru/2020/04/13/370428/) and [others](https://www.google.com/search?q=r57zone&tbm=nws).
 
 Thanks to everyone for posting.
 
