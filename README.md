@@ -140,10 +140,10 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
 
-## Game on mobile VR HMD and DIY VR HMD
+## Game on mobile and DIY VR HMD
 [![](https://user-images.githubusercontent.com/9499881/80217537-e70b3b00-8650-11ea-9558-3f27a5b30cc8.gif)](https://youtu.be/4Q_YqkWfWqI)
 
-You can play the game on a smartphone in VR, for example, through the application Moonlight (for Nvidia 600 Series +) or Trinus. Head position can be transmitted using [OpenTrack](https://github.com/opentrack/opentrack) and FreePie IMU applications (for Android, from the OpenTrack archive). More detailed settings can be seen in [this video](https://youtu.be/4Q_YqkWfWqI). You can also use third-party drivers for VR with a HMD from a smartphone (not recommended, since they will not crouch), to do this, [switch TrueOpenVR to the controllers only mode](https://youtu.be/4Q_YqkWfWqI?t=177).
+Сan play the game on a smartphone in VR, for example, through the application Moonlight (for Nvidia 600 Series +) or Trinus. Head position can be transmitted using [OpenTrack](https://github.com/opentrack/opentrack) and FreePie IMU applications (for Android, from the OpenTrack archive). More detailed settings can be seen in [this video](https://youtu.be/4Q_YqkWfWqI). You can also use third-party drivers for VR with a HMD from a smartphone (in the game settings will need to add a crouch button), to do this, [switch TrueOpenVR to the controllers only mode](https://youtu.be/4Q_YqkWfWqI?t=177).
 
 ## Download
 >Version for TrueOpenVR & SteamVR.<br>
