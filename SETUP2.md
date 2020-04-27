@@ -7,6 +7,7 @@
 6. For Steam, go to the game properties, click on the launch options and enter `+ vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe"+ vr_gg_gesture_pull 0`. This is necessary so that objects are [pulled up by one button](https://youtu.be/RWQbwlXjtjI).
 7. Run the game, select the game and click on it, then press ALT + TAB and switch to the "Headset Window" and click. The SteamVR status window and SteamVR messages can be hidden.
 8. In the game settings select "Movement: Sliding" (for smooth walking as in regular games) and turn off the rotation (so that the inscription use the rotation does not interfere).
+9. (Not necessary) To play in spectator mode also need to do the [following actions](https://youtu.be/JwxQ3jJ5aWA).
 
 Also study the descriptions of the buttons, if you cannot pass at some point, read the instructions and see the walkthrough manuals on [youtube](https://www.youtube.com/channel/UCcuoRRWRvb7xUuMzrEqCZ5w).
 

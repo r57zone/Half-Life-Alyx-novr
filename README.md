@@ -20,7 +20,7 @@ Follow each item carefully.
 Read about **editing key bindings** can [here](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.md).
 
 ## Control
-![](https://user-images.githubusercontent.com/9499881/80138064-4ae02600-85b5-11ea-9704-c8e2289a7668.PNG)
+![](https://user-images.githubusercontent.com/9499881/80383238-63518880-88b4-11ea-881b-53c9a1a280a5.PNG)
 
 Button | description | Designation in VR
 ------------ | ------------- | -------------
@@ -118,7 +118,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**Using WASD** - the "S" button is used SteamVR, so I had to use the arrows.
+**Using WASD** - WASD buttons can be used when playing in the "spectator" mode. More details [here](https://youtu.be/JwxQ3jJ5aWA).
 
 
 
@@ -126,7 +126,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**Black corners** - they can partially be removed [this way](https://youtu.be/wsJl_ODPSPI).
+**Black corners** - Can play in spectator mode completely without them or they can partially be removed [this way](https://youtu.be/wsJl_ODPSPI).
 
 
 
@@ -135,6 +135,14 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 **The game or SteamVR don't start** - restart the computer or close Steam, SteamVR and the game in the task manager, if any.
+
+
+
+**Decrease HUD in spectator mode** - enter the command in the console `hlvr_spectator_hud_size 80`. More details [here](https://youtu.be/JwxQ3jJ5aWA?t=343).
+
+
+
+**Controllers stop moving in spectator mode** - Do not use the Escape key. If you clicked it, click it again. In the WASD layout of the menu, the tilde key.
 
 
 
