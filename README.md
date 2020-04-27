@@ -146,6 +146,10 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
+**SteamVR errors** - May have incorrectly specified the resolution of your monitor ("windowWidth" and "windowHeight") in the configuration file "default.vrsettings". These parameters can not be less or more, to reduce the load on the system, reduce "renderWidth" and "renderHeight". SteamVR also may not work on older 5: 4 monitors.
+
+
+
 Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
 
 ## Game on mobile and DIY VR HMD
