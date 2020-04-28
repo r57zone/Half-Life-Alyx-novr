@@ -54,7 +54,7 @@ Insert and Home | The movement of the controller forward and backward | The move
 "O" | Left hand cell (use with right hand trigger) | Moving the right controller
 "N", "M" | turn left, turn right | Pressing the left and right touch panels of the right controller
 
-If you don't have Numpad keys or there are additional buttons on the mouse then you can use other key bindings, ready-made profiles already have a driver archive.
+There are also several alternative button bindings in the driver archive. There is a profiles key bindings for WASD for spectator mode, for keyboards without Numpad and so on.
 
 ## Walkthrough difficulties
 • **Chapter 3: Is Or Will Be (fix the wheel)**
@@ -101,7 +101,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 **Also** [saves are also available](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aopen+label%3ASaves) to skip difficult moments of the game.
 
-## Problems
+## Troubleshooting
 **Red screen** - switch the focus to the game "Half-Life: Alyx" via ALT + TAB, press the left mouse button and then switch back to the "Headset window". You can also change the "DebugMode" parameter to true, in the "default.vrsettings" configuration file, if there are any problems with the red screen. Minimize all SteamVR notifications so they don’t interfere.
 
 
@@ -110,7 +110,11 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**Buttons do not work or high sensitivity** - start SteamVR first and only then the game.
+**SteamVR errors** - May have incorrectly specified the resolution of your monitor ("windowWidth" and "windowHeight") in the configuration file "default.vrsettings". These parameters can not be less or more, to reduce the load on the system, reduce "renderWidth" and "renderHeight". SteamVR also may not work on older 5: 4 monitors.
+
+
+
+**Buttons don't work or high sensitivity** - start SteamVR first and only then the game.
 
 
 
@@ -118,11 +122,15 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
+**Controllers stop moving in spectator mode** - Don't use the "Escape" key. If you clicked it, click it again. In the WASD key bindings of the menu on "~" key.
+
+
+
 **Using WASD** - WASD buttons can be used when playing in the "spectator" mode. More details [here](https://youtu.be/JwxQ3jJ5aWA).
 
 
 
-**Large viewing angle** - it can be changed [this way](https://youtu.be/wsJl_ODPSPI) or [this way](https://youtu.be/8f_2GkruPdU).
+**Large viewing angle** - To play in spectator mode need to do the [following](https://youtu.be/JwxQ3jJ5aWA), but to play in VR mode it can be changed [this way](https://youtu.be/wsJl_ODPSPI) or [this way](https://youtu.be/8f_2GkruPdU).
 
 
 
@@ -139,14 +147,6 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 **Decrease HUD in spectator mode** - enter the command in the console `hlvr_spectator_hud_size 80`. More details [here](https://youtu.be/JwxQ3jJ5aWA?t=343).
-
-
-
-**Controllers stop moving in spectator mode** - Do not use the Escape key. If you clicked it, click it again. In the WASD layout of the menu, the tilde key.
-
-
-
-**SteamVR errors** - May have incorrectly specified the resolution of your monitor ("windowWidth" and "windowHeight") in the configuration file "default.vrsettings". These parameters can not be less or more, to reduce the load on the system, reduce "renderWidth" and "renderHeight". SteamVR also may not work on older 5: 4 monitors.
 
 
 
