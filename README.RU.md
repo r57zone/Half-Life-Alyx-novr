@@ -10,6 +10,16 @@
 [![](https://user-images.githubusercontent.com/9499881/78796953-1ae72f00-79c8-11ea-8ea1-e923c0b5c10b.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
+## Содержание
+* **[Настройка](#настройка)**
+* **[Управление](#управление)**
+* **[Трудности прохождения](#трудности-прохождения)**
+* **[Исправление проблем](#исправление-проблем)**
+* **[Мобильные и DIY VR шлемы](#мобильные-и-DIY-VR-шлемы)**
+* **[Загрузка](#загрузка)**
+* **[Медиа](#медиа)**
+* **[Обратная связь](#обратная-связь)**
+
 ## Настройка
 Процесс настройки можно увидеть в [этой инструкции с видеоматериалами](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.RU.md) или [детальной текстовой инструкции](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.RU.md).
 
@@ -100,6 +110,7 @@ Insert и Home | Движение контроллеров вперед и на�
 
 
 **Также доступны [сохранения](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aopen+label%3ASaves)** для пропуска сложных моментов игры.
+
 ## Исправление проблем
 **Красный экран** - переключите фокус на игру "Half-Life: Alyx" через ALT + TAB, нажмите левую кнопку мыши и затем переключитесь снова на "Headset window". Также можно изменить параметр "DebugMode" на true, в файле конфигурации "default.vrsettings", если возникают какие-то проблемы с красным экраном.
 
@@ -151,7 +162,7 @@ Insert и Home | Движение контроллеров вперед и на�
 
 Пожалуйста прочитайте [открытые](https://github.com/r57zone/Half-Life-Alyx-novr/issues) и [закрытые](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) вопросы, а также внимательно прочтите описание. Возможно ваша проблема уже имеет решение.
 
-## Игра на мобильных и DIY VR шлемах
+## Мобильные и DIY VR шлемы
 [![](https://user-images.githubusercontent.com/9499881/80217537-e70b3b00-8650-11ea-9558-3f27a5b30cc8.gif)](https://youtu.be/4Q_YqkWfWqI)
 
 Можно играть cтримя игру на смартфон, например, через приложение Moonlight (для Nvidia 600 серии+) или Trinus. Положение головы можно передавать используя [OpenTrack](https://github.com/opentrack/opentrack) и приложение FreePie IMU (для Android, из архива OpenTrack). Более подробную настройку можно увидеть в [этом видео](https://youtu.be/4Q_YqkWfWqI). Также можно использовать сторонние драйверы для VR шлемом из смартфона (в настройках игры нужно будет добавить кнопку приседания), для этого [переключите TrueOpenVR в режим работы только контроллеров](https://youtu.be/4Q_YqkWfWqI?t=177).
@@ -160,8 +171,8 @@ Insert и Home | Движение контроллеров вперед и на�
 >Версия для TrueOpenVR & SteamVR.<br>
 **[Загрузить](https://github.com/r57zone/Half-Life-Alyx-novr/releases)**
 
-## Медиа о проекте
-[Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), 
+## Медиа
+[Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), [Gizmodo](https://es.gizmodo.com/ahora-puedes-jugar-half-life-alyx-sin-un-casco-de-real-1842848986), 
 [Российская газета](https://rg.ru/2020/04/13/half-life-alyx-polnostiu-adaptirovali-dlia-igry-s-myshiu-i-klaviaturoj.html), [Регнум](https://regnum.ru/news/society/2914484.html), [MediaLeaks](https://medialeaks.ru/news/1304mmg-half-life-alyx-pc/), [3dnews](https://3dnews.ru/1008242), [Games.Mail](https://games.mail.ru/pc/news/2020-04-13/vyshel-pervyj-mod-pozvolyayushij-projti-half-life-alyx-bez-vr-shlema/), [Игромания](https://www.igromania.ru/news/92675/Drayver_dlya_Half-Life_Alyx_pozvolyaet_proyti_igru_bez_VR-shlema.html), [4pda](https://4pda.ru/2020/04/13/370428/) и [другие](https://www.google.com/search?q=r57zone&tbm=nws).
 
 Спасибо всем за публикации.

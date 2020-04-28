@@ -10,6 +10,16 @@ First driver allows to complete [Half-Life: Alyx](https://store.steampowered.com
 [![](https://user-images.githubusercontent.com/9499881/78796953-1ae72f00-79c8-11ea-8ea1-e923c0b5c10b.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78796956-1c185c00-79c8-11ea-9155-ea3d673113f4.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 
+## Content
+* **[Setup](#setup)**
+* **[Control](#control)**
+* **[Walkthrough difficulties](#walkthrough-difficulties)**
+* **[Troubleshooting](#troubleshooting)**
+* **[Mobile and DIY VR HMD](#mobile-and-diy-vr-hmd)**
+* **[Download](#download)**
+* **[Media](#media)**
+* **[Feedback](#feedback)**
+
 ## Setup
 The setup process can be seen in [this instruction with video materials](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.md) or [detailed text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
 
@@ -152,7 +162,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and [closing](https://github.com/r57zone/Half-Life-Alyx-novr/issues?q=is%3Aissue+is%3Aclosed) issues and carefully read the description. Perhaps your problem already has a solution.
 
-## Game on mobile and DIY VR HMD
+## Mobile and DIY VR HMD
 [![](https://user-images.githubusercontent.com/9499881/80217537-e70b3b00-8650-11ea-9558-3f27a5b30cc8.gif)](https://youtu.be/4Q_YqkWfWqI)
 
 Сan play the game on a smartphone in VR, for example, through the application Moonlight (for Nvidia 600 Series +) or Trinus. Head position can be transmitted using [OpenTrack](https://github.com/opentrack/opentrack) and FreePie IMU application (for Android, from the OpenTrack archive). More detailed settings can be seen in [this video](https://youtu.be/4Q_YqkWfWqI). You can also use third-party drivers for VR with a HMD from a smartphone (in the game settings will need to add a crouch button), to do this, [switch TrueOpenVR to the controllers only mode](https://youtu.be/4Q_YqkWfWqI?t=177).
@@ -161,8 +171,8 @@ Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and 
 >Version for TrueOpenVR & SteamVR.<br>
 **[Download](https://github.com/r57zone/Half-Life-Alyx-novr/releases)**
 
-## Media about the project
-[Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), 
+## Media
+[Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), [Gizmodo](https://es.gizmodo.com/ahora-puedes-jugar-half-life-alyx-sin-un-casco-de-real-1842848986), 
 [Российская газета](https://rg.ru/2020/04/13/half-life-alyx-polnostiu-adaptirovali-dlia-igry-s-myshiu-i-klaviaturoj.html), [Регнум](https://regnum.ru/news/society/2914484.html), [MediaLeaks](https://medialeaks.ru/news/1304mmg-half-life-alyx-pc/), [3dnews](https://3dnews.ru/1008242), [Games.Mail](https://games.mail.ru/pc/news/2020-04-13/vyshel-pervyj-mod-pozvolyayushij-projti-half-life-alyx-bez-vr-shlema/), [Игромания](https://www.igromania.ru/news/92675/Drayver_dlya_Half-Life_Alyx_pozvolyaet_proyti_igru_bez_VR-shlema.html), [4pda](https://4pda.ru/2020/04/13/370428/) and [others](https://www.google.com/search?q=r57zone&tbm=nws).
 
 Thanks to everyone for posting.
