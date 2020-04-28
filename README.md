@@ -65,7 +65,7 @@ First you need to pull the pipe out of the wheel. Then go down a bit using the "
 
 • **Chapter 4: Superweapon (throw grenade into the ventilation)**
 
-You can simply put the grenade up by using the "PageUP" buttons and go down then by pressing the "Numpad -" button.
+You need to put 2 boxes on top of each other and throw a grenade like on [video](https://youtu.be/RD7Hm8u2XwE). If you can’t do it, you can simply put the grenade up by using the "PageUP" buttons and go down then by pressing the "Numpad -" button.
 
 
 
