@@ -93,7 +93,7 @@ For lasers, you must use the separate mode ("L"). Move up, down, right and left 
 
 • **Chapter 7: Jeff (opening the bunker)**
 
-This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ("}")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of walkthrough this moment can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). 
+This requires training and patience. First you need to lower the lever (grab the lever in the mode of movement of the left controller (left and right mouse button) and move it down ("}")), then turn 2 cells, first you need to pull it up a little and turn it (use the view and the rotation buttons ("U", "J", "H", "K") or "Backspace"), then you only need to lower the last lever down. Grab the lever in the mode of movement of the left hand (left and right mouse buttons), look down and click the button for moving the controllers down ("}"). The entire process of walkthrough this moment can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=71). If you still can't do it, can enter a command `ent_fire relay_debug_outro_plug_puzzle_end trigger` in the console to open the hopper. 
 
 
 
@@ -156,7 +156,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**Decrease HUD in spectator mode** - enter the command in the console `hlvr_spectator_hud_size 80`. More details [here](https://youtu.be/JwxQ3jJ5aWA?t=343).
+**Decrease HUD in spectator mode** - change the size in the game settings or enter the command in the console `hlvr_spectator_hud_size 80`. More details [here](https://youtu.be/JwxQ3jJ5aWA?t=343).
 
 
 
