@@ -3,6 +3,8 @@
 # Half-Life: Alyx non VR mod (driver)
 First driver allows to complete [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. This method allows to complete the game and try out VR mechanics. Some moments will make you sweat, but they are passable in this way. Also, this method allows you to get a very interesting and unusual gameplay (sometimes similar to Amnesia or Penumbra), which unfortunately almost never happens in ordinary games. I went through the game in VR and went through it that way, and I find both experiences very interesting.
 
+The driver can be used for other VR games, for example, you can play DOOM VFR, Wolfenstein: Cyberpilot, and so on.
+
 [![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78798825-7aded500-79ca-11ea-9b87-565c23896ec8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
@@ -13,6 +15,7 @@ First driver allows to complete [Half-Life: Alyx](https://store.steampowered.com
 ## Content
 * **[Setup](#setup)**
 * **[Control](#control)**
+* **[Walkthrough](#walkthrough)**
 * **[Walkthrough difficulties](#walkthrough-difficulties)**
 * **[Troubleshooting](#troubleshooting)**
 * **[Mobile and DIY VR HMD](#mobile-and-diy-vr-hmd)**
@@ -65,6 +68,10 @@ Insert and Home | The movement of the controller forward and backward | The move
 "N", "M" | turn left, turn right | Pressing the left and right touch panels of the right controller
 
 There are also several alternative button bindings in the driver archive. There is a profiles key bindings for WASD for spectator mode, for keyboards without Numpad and so on.
+
+## Walkthrough
+
+[by TheMaster974](https://www.youtube.com/watch?v=SG02Pirp4a4&list=PL8tDEPB6h7LmC8VkEshjqfKOMgFkMXWSp)
 
 ## Walkthrough difficulties
 • **Chapter 3: Is Or Will Be (fix the wheel)**

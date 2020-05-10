@@ -3,6 +3,8 @@
 # Half-Life: Alyx без VR мод (драйвер)
 Первый драйвер позволяющий пройти [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) без VR, на клавиатуре и мыши. Этот способ позволяет полностью пройти игру и попробовать VR механики. Некоторые моменты заставят вас попотеть, но и они проходимы данным способом. Также этот метод позволяет получить весьма интересный и необычный геймплей (местами похожий на Amnesia или Penumbra), которого к сожалению почти не бывает в обычных играх. Я прошёл игру в VR и проходил её таким образом, и я нахожу оба опыта весьма интересными.
 
+Драйвер можно использовать для других VR игр, например, можно поиграть в DOOM VFR, Wolfenstein: Cyberpilot и так далее.
+
 [![](https://user-images.githubusercontent.com/9499881/78798831-7c100200-79ca-11ea-8bb1-3b6d9cd92cc0.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78796937-16bb1180-79c8-11ea-819e-1a393ab699b8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
 [![](https://user-images.githubusercontent.com/9499881/78798825-7aded500-79ca-11ea-9b87-565c23896ec8.gif)](https://www.youtube.com/watch?v=uO7iFsKial0&list=PL7QwUKlfUhof5JI7bzpbcJub8TWF2x60Y)
