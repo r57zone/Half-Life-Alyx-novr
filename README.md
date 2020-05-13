@@ -33,7 +33,7 @@ Follow each item carefully.
 Read about **editing key bindings** can [here](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.md).
 
 ## Control
-![](https://user-images.githubusercontent.com/9499881/80383238-63518880-88b4-11ea-881b-53c9a1a280a5.PNG)
+![](https://user-images.githubusercontent.com/9499881/81843920-62308480-955f-11ea-8f30-f9ee333fd0a7.PNG)
 
 Button | description | Designation in VR
 ------------ | ------------- | -------------
