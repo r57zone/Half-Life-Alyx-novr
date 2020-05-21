@@ -4,7 +4,7 @@ Open the file "HalfLifeAlyx.ini" in the folder "...\TrueOpenVR\Settings\Drivers"
 Find the desired action and enter a new key code.
 
 
-**Warning!** The "S" button is used by SteamVR, so arrows are used to move, not WASD (in the spectator window can).
+**Warning!** The "S" button is used by SteamVR, so arrows are used to move, not WASD (in the spectator window can). Buttons and profiles "WASD" can only be used with a language layout without the character "S", for example, you can switch to the Russian language layout before the game (if it is not there, you can add it during the game and then delete it).
 
 
 

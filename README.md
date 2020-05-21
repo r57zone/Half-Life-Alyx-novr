@@ -143,7 +143,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**Using WASD** - WASD buttons can be used when playing in the "spectator" mode. More details [here](https://youtu.be/JwxQ3jJ5aWA).
+**Using WASD** - WASD buttons can be used by playing in the "spectator" mode or by switching the language layout where there is no character "S" (For example, Russian, if it is not there, you can add it and then delete it). More details [here](https://youtu.be/JwxQ3jJ5aWA).
 
 
 
