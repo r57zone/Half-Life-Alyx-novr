@@ -67,7 +67,7 @@ Insert and Home | The movement of the controller forward and backward | The move
 "O" | Left hand cell (use with right hand trigger) | Moving the right controller
 "N", "M" | turn left, turn right | Pressing the left and right touch panels of the right controller
 
-There are also several alternative button bindings in the driver archive. There is a profiles key bindings for WASD for spectator mode, for keyboards without Numpad and so on.
+There are also several alternative button bindings in the driver archive. There is a profiles key bindings for WASD for spectator mode (or use a different language layout, without the character "S"), for keyboards without Numpad and so on.
 
 ## Walkthrough
 
