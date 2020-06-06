@@ -1,7 +1,7 @@
 ﻿# Setup
 ## New method
 1. Install [SteamVR] (https://store.steampowered.com/app/250820/SteamVR/).
-2. Unzip the driver ["HalfLifeAlyx.SteamVR.driver.zip"] (https://github.com/TrueOpenVR/SteamVR-TrueOpenVR/releases), in the folder "...\Steam\steamapps\common\SteamVR\drivers" .
+2. Unzip the driver ["HalfLifeAlyx.SteamVR.driver.zip"](https://github.com/r57zone/Half-Life-Alyx-novr/releases), in the folder "...\Steam\steamapps\common\SteamVR\drivers" .
 3. Change the settings in the configuration file "...\Steam\steamapps\common\SteamVR\drivers\tovr\resources\settings\default.vrsettings", "renderWidth" width, and "renderHeight" the height of the game’s resolution (for example, for a game in 1920 by 1080, you need to set "renderWidth" 1920, and "renderHeight" 1080 (to reduce FOV, you can set "ZoomWidth" to 0.8 and "ZoomHeight" to 0.8, so this will help reduce the "black corners"), if the game slows down, then these parameters can be made smaller, for example, 1280 and 720).
 4. Start SteamVR and in the SteamVR status window, click -> Room settings -> Small room -> Calibration -> 170 cm. You can close the SteamVR tutorial, and SteamVR Home is disabled in the SteamVR settings.
 5. For Steam, go to the game’s properties, click on the launch options and enter `+ vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe " +vr_gg_gesture_pull 0`. This is necessary so that objects [are pulled up by one button](https://youtu.be/RWQbwlXjtjI).
