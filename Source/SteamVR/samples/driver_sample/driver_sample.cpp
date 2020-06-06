@@ -899,21 +899,36 @@ public:
 					*pnX = m_nWindowWidth / 2;
 				}*/
 
-		pnY = 0;
-		*pnWidth = m_nRenderWidth;
-		*pnHeight = m_nRenderHeight;
-
 		if (m_bStereoMode) {
+
+			*pnY = 0;
+			*pnWidth = m_nWindowWidth / 2;
+			*pnHeight = m_nWindowHeight;
+
 			if (eEye == Eye_Left)
+			{
 				*pnX = 0;
+			}
 			else
+			{
 				*pnX = (m_nWindowWidth / 2);
+			}
 		}
 		else { //Mono mode
+			pnY = 0;
+			*pnWidth = m_nRenderWidth;
+			*pnHeight = m_nRenderHeight;
+
 			if (eEye == Eye_Left)
+			{
 				*pnX = (m_nWindowWidth - m_nRenderWidth) / 2;
+			}
 			else
+			{
 				*pnX = m_nWindowWidth;
+			}
+
+
 		}
 	}
 
