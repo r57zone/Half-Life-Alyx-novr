@@ -1,5 +1,5 @@
 ﻿# Editing key binding
-Open the file "HalfLifeAlyx.ini" in the folder "...\TrueOpenVR\Settings\Drivers", using a text editor.
+Open the file "HalfLifeAlyx.ini" in the folder "...\Steam\steamapps\common\SteamVR\drivers\hlalyx" (or old method "...\TrueOpenVR\Settings\Drivers"), using a text editor.
 
 Find the desired action and enter a new key code.
 

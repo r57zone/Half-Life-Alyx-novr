@@ -1,5 +1,5 @@
 ﻿# Редактирование привязки клавиш
-Откройте файл "HalfLifeAlyx.ini" в папке "...\TrueOpenVR\Settings\Drivers", с помощью текстового редактора.
+Откройте файл "HalfLifeAlyx.ini" в папке "...\Steam\steamapps\common\SteamVR\drivers\hlalyx" (или старый метод "...\TrueOpenVR\Settings\Drivers"), с помощью текстового редактора.
 
 Найдите необходимое действие и укажите новый код клавиши.
 

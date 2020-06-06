@@ -1,4 +1,8 @@
 ﻿# Настройка
+## Новый метод
+Подробное описание [здесь](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
+
+## Старый метод: TrueOpenVR
 1. Установить [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
 2. Следуйте инструкциям [этого видео](https://youtu.be/66HIE3DFfjo)
 3. Поставить разрешение (1920x1080 или другое необходимое вам) для полноэкранного режима. Подробнее как настраивается можно увидеть [тут](https://youtu.be/K_I5fm-cT6Y?t=2).
