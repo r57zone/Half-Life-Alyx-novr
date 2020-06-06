@@ -1,10 +1,13 @@
 ﻿# Настройка
 ## Новый метод
+1. Установить [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
+2. Следуйте инструкциям [этого видео](https://youtu.be/Uq12rW3DrKI).
+
 Подробное описание [здесь](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
 
 ## Старый метод: TrueOpenVR
 1. Установить [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
-2. Следуйте инструкциям [этого видео](https://youtu.be/66HIE3DFfjo)
+2. Следуйте инструкциям [этого видео](https://youtu.be/66HIE3DFfjo).
 3. Поставить разрешение (1920x1080 или другое необходимое вам) для полноэкранного режима. Подробнее как настраивается можно увидеть [тут](https://youtu.be/K_I5fm-cT6Y?t=2).
 4. При необходимости уменьшите поле зрения [изменив "renderHeight"](https://youtu.be/8f_2GkruPdU) (увеличив) или [увеличив масштабирование](https://youtu.be/wsJl_ODPSPI) (изменив "ZoomWidth" и "ZoomHeight").
 5. Запускам SteamVR и в окне состояния SteamVR жмем -> Настройка комнаты -> Маленькая комната -> Калибровка -> 170 см. SteamVR tutorial можно закрыть, а SteamVR Home отключается в настройках SteamVR.
