@@ -185,6 +185,7 @@ HWND HalfLifeAlyxWindow = 0;
 bool HeadsetWindowFocused = false;
 bool HalfLifeAlyxFocused = false;
 bool VRMode = false;
+float VRAimingAngleOffset;
 
 float oldPitch = 0, deltaPitch = 0;
 float oldRoll = 0, deltaRoll = 0;
@@ -573,7 +574,7 @@ void GetControllersData(__out TController *FirstController, __out TController *S
 	if (Aiming || (GetAsyncKeyState(KEY_ID_AIMING) & 0x8000) != 0) {
 		double a = DegToRad(OffsetYPR(mouseHMD.Yaw, -97) * -1); //-98
 		if (VRMode)
-			a = DegToRad(OffsetYPR(mouseHMD.Yaw, -91) * -1);
+			a = DegToRad( OffsetYPR( OffsetYPR(mouseHMD.Yaw, -91), VRAimingAngleOffset) * -1);
 
 		double b = DegToRad(OffsetYPR(mouseHMD.Pitch, 90) * -1);
 
@@ -1430,6 +1431,7 @@ EVRInitError CServerDriver_Sample::Init( vr::IVRDriverContext *pDriverContext )
 	ZPosSensetive = IniFile.ReadFloat("Main", "AxisZ", 0.009);
 
 	VRMode = IniFile.ReadBoolean("Main", "VRMode", false);
+	VRAimingAngleOffset = IniFile.ReadFloat("Main", "VRAimingAngleOffset", 0);
 
 	m_HalfWidth = GetSystemMetrics(SM_CXSCREEN) / 2;
 	m_HalfHeight = GetSystemMetrics(SM_CYSCREEN) / 2;
