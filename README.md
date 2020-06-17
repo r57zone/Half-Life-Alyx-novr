@@ -131,6 +131,10 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
+**Don't start in VR (Headset Window) mode** - add the `-vr` launch option in the Steam game options or in the properties of the Windows shortcut.
+
+
+
 **SteamVR errors** - May have incorrectly specified the resolution of your monitor ("windowWidth" and "windowHeight") in the configuration file "default.vrsettings". These parameters can not be less or more, to reduce the load on the system, reduce "renderWidth" and "renderHeight". SteamVR also may not work on older 5: 4 monitors.
 
 
