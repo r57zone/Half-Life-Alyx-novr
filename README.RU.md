@@ -182,7 +182,7 @@ Insert и Home | Движение контроллеров вперед и на�
 
 ## Загрузка
 >Драйвер и необходимые утилиты<br>
-**[Загрузить](https://github.com/r57zone/Half-Life-Alyx-novr/releases/tag/0.9.6)**
+**[Загрузить](https://github.com/r57zone/Half-Life-Alyx-novr/releases/)**
 
 ## Медиа
 [Forbes](https://www.forbes.com/sites/davidthier/2020/04/13/heres-the-first-mod-to-play-half-life-alyx-outside-of-vr/), [PCGamer](https://www.pcgamer.com/the-first-mod-that-will-let-you-finish-half-life-alyx-without-vr-is-here/), [TheNextWeb](https://thenextweb.com/gaming/2020/04/13/you-can-now-play-half-life-alyx-without-vr-using-this-mod-but-i-wouldnt/), [GameBold](https://gamingbolt.com/half-life-alyx-sees-first-mod-to-complete-game-without-vr), [WCCFTech](https://wccftech.com/half-life-alyx-new-no-vr-mod-converts-all-gameplay-mechanics-to-keyboard-and-mouse-controls/), [Gamespot](https://www.gamespot.com/articles/how-to-play-half-life-alyx-without-a-vr-headset/1100-6475988/), [TechRadar](https://www.techradar.com/news/half-life-alyx-mod-lets-you-play-with-no-vr-headset-heres-how-to-install-it), [Kotaku](https://kotaku.com/half-life-alyx-is-now-playable-without-a-vr-headset-1842846683), [GamesRadar](https://www.gamesradar.com/half-life-alyx-no-vr-mod-complete-game/), [Gizmodo](https://es.gizmodo.com/ahora-puedes-jugar-half-life-alyx-sin-un-casco-de-real-1842848986), [IGN](https://me.ign.com/ar/half-life-alyx/140939/video/shhd-wl-mwd-kml-ytyh-tjrb-half-life-alyx-bdwn-wq-ftrdy), 
