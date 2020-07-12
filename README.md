@@ -123,6 +123,14 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
+**Standing on the floor** - you need to calibrate the SteamVR room. More details in the installation instructions.
+
+
+
+**Black screen in HeadsetWindow** - invalid window resolution. Set the window resolution as the monitor.
+
+
+
 **Headset is not monitored** - this happens when the "Headset Window" is out of focus, you need to select this window through ALT + TAB. In the SteamVR settings, you can put the option not to turn off the display for 5 minutes. The helmet will begin to be tracked as soon as you switch to the "Headset Window".
 
 
