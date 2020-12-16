@@ -1,9 +1,10 @@
 ﻿# Setup
 ## New method
 1. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
-2. Follow the instructions of [this video](https://youtu.be/Uq12rW3DrKI).
-3. For Steam, go to the game properties, click on the launch options and enter `+vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" +vr_gg_gesture_pull 0`. This is necessary so that the objects [pulled up on one button](https://youtu.be/RWQbwlXjtjI).
-4. In the game settings select "Movement: Sliding" (for smooth walking as in regular games) and turn off the rotation (so that the inscription use the rotation does not interfere).
+2. SteamVR starts and in the SteamVR status window click -> Room settings -> Small room -> Calibration -> 170 cm. The SteamVR tutorial can be closed, and SteamVR Home is disabled in the SteamVR settings.
+3. Follow the instructions of [this video](https://youtu.be/Uq12rW3DrKI).
+4. For Steam, go to the game properties, click on the launch options and enter `+vr_gg_gesture_pull 0`. For a regular shortcut, go to the shortcut properties and add the same: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe" +vr_gg_gesture_pull 0`. This is necessary so that the objects [pulled up on one button](https://youtu.be/RWQbwlXjtjI).
+5. In the game settings select "Movement: Sliding" (for smooth walking as in regular games) and turn off the rotation (so that the inscription use the rotation does not interfere).
 
 Detailed description [here](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
 
