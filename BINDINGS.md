@@ -104,6 +104,7 @@ y Y | 89
 z Z | 90
 Win (left) | 91
 Win (right) | 92
+Menu | 93
 Numpad 0 | 96
 Numpad 1 | 97
 Numpad 2 | 98
@@ -116,6 +117,6 @@ Numpad 8 | 104
 Numpad 9 | 105
 Numpad multiply | 106
 Numpad plus | 107
-Numpad minus | 108
-Numpad del | 109
-Numpad div | 110
+Numpad minus | 109
+Numpad del | 110
+Numpad div | 111

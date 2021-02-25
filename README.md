@@ -1,6 +1,6 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
-# Half-Life: Alyx non VR mod (driver)
+# Half-Life: Alyx non-VR mod (driver)
 First driver allows to complete [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. This method allows to complete the game and try out VR mechanics. Some moments will make you sweat, but they are passable in this way. Also, this method allows you to get a very interesting and unusual gameplay (sometimes similar to Amnesia or Penumbra), which unfortunately almost never happens in ordinary games. I went through the game in VR and went through it that way, and I find both experiences very interesting.
 
 The driver can be used for other VR games, for example, you can play DOOM VFR, Wolfenstein: Cyberpilot, and so on.
@@ -61,13 +61,13 @@ Numpad "-" или "-" | Reset move down and up | Return to position before movin
 "{" and "}"  | Moving the left controller up and down, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - Сhapter 5: North Star), reset after use | Rotation of both controllers
-"Y" | Reset controllers rotation with the buttons above | Return controllers to state before rotation
+"Y" | Reset controllers’ rotation with the buttons above | Return controllers to state before rotation
 "P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
 "L" | Mode for clearing lasers (reduced sensitivity and moving on forward and backward arrows) | Move the right controller
 "O" | Left hand cell (use with right hand trigger) | Moving the right controller
 "N", "M" | turn left, turn right | Pressing the left and right touch panels of the right controller
 
-There are also several alternative button bindings in the driver archive. There is a profiles key bindings for WASD for spectator mode (or use a different language layout, without the character "S"), for keyboards without Numpad and so on.
+There are also several alternative button bindings in the driver archive. There is a profiles key binding for WASD for spectator mode (or use a different language layout, without the character "S"), for keyboards without Numpad and so on.
 
 ## Walkthrough
 
@@ -92,7 +92,7 @@ First you need to use rotation ("U", "J", "H", "K"), then reset ("Y"), then rais
 
 
 
-• **Chapter 6: the arms Race (lasers)**
+• **Chapter 6: The arms Race (lasers)**
 
 For lasers, you must use the separate mode ("L"). Move up, down, right and left with the mouse, and move forward and back with the buttons (up, down). Laser clearance can be seen in [this video](https://youtu.be/Xj0bpAArUaE?t=11).
 
@@ -135,7 +135,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**The next button don't work during calibration (the hmd is not tracked)** - this happens if the window resolution don't match the resolution of your monitor.
+**The next button doesn’t work during calibration (the hmd is not tracked)** - this happens if the window resolution doesn’t match the resolution of your monitor.
 
 
 
@@ -143,7 +143,7 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
-**SteamVR errors** - May have incorrectly specified the resolution of your monitor ("windowWidth" and "windowHeight") in the configuration file "default.vrsettings". These parameters can not be less or more, to reduce the load on the system, reduce "renderWidth" and "renderHeight". SteamVR also may not work on older 5: 4 monitors.
+**SteamVR errors** - May have incorrectly specified the resolution of your monitor ("windowWidth" and "windowHeight") in the configuration file "default.vrsettings". These parameters cannot be less or more, to reduce the load on the system, reduce "renderWidth" and "renderHeight". SteamVR also may not work on older 5: 4 monitors.
 
 
 
@@ -188,7 +188,7 @@ Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and 
 ## Mobile and DIY VR HMD
 [![](https://user-images.githubusercontent.com/9499881/80217537-e70b3b00-8650-11ea-9558-3f27a5b30cc8.gif)](https://youtu.be/4Q_YqkWfWqI)
 
-Сan play the game on a smartphone in VR, for example, through the application Moonlight (for Nvidia 600 Series +), [Sunshine](https://github.com/loki-47-6F-64/sunshine/releases), [OpenStream](https://open-stream.net) or Trinus. Head position can be transmitted using [OpenTrack](https://github.com/opentrack/opentrack) and FreePie IMU application (for Android, from the OpenTrack archive). More detailed settings can be seen in [this video](https://youtu.be/4Q_YqkWfWqI). You can also use third-party drivers for VR with a HMD from a smartphone (in the game settings will need to add a crouch button), to do this, [switch TrueOpenVR to the controllers only mode](https://youtu.be/4Q_YqkWfWqI?t=177).
+Сan play the game on a smartphone in VR, for example, through the application Moonlight (for Nvidia 600 Series +), [Sunshine](https://github.com/loki-47-6F-64/sunshine/releases), [OpenStream](https://open-stream.net) or Trinus. Head position can be transmitted using [OpenTrack](https://github.com/opentrack/opentrack) and FreePie IMU application (for Android, from the OpenTrack archive). More detailed settings can be seen in [this video](https://youtu.be/4Q_YqkWfWqI). You can also use third-party drivers for VR with an HMD from a smartphone (in the game settings will need to add a crouch button), to do this, [switch TrueOpenVR to the controllers only mode](https://youtu.be/4Q_YqkWfWqI?t=177).
 
 
 For the new method, where only the SteamVR driver is used, it is necessary to change the `HMD` parameter to `0` in the configuration file "...\Steam\steamapps\common\SteamVR\drivers\hlalyx\HalfLifeAlyx.ini" and install the necessary SteamVR driver for the HMD.
@@ -204,4 +204,4 @@ For the new method, where only the SteamVR driver is used, it is necessary to ch
 Thanks to everyone for posting.
 
 ## Feedback
-`r57zone[at]gmail.com`
+`r57zone@gmail.com`

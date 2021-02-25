@@ -55,7 +55,7 @@ Home | 36
 Delete | 46
 PrintScreen | 44
 ScrollLock | 145
-0,) | 48
+0 ) | 48
 1 ! | 49
 2 @ | 50
 3 # | 51
@@ -104,6 +104,7 @@ y Y | 89
 z Z | 90
 Win (левая) | 91
 Win (правая) | 92
+Menu | 93
 Numpad 0 | 96
 Numpad 1 | 97
 Numpad 2 | 98
@@ -116,6 +117,6 @@ Numpad 8 | 104
 Numpad 9 | 105
 Numpad умножить | 106
 Numpad сложить | 107
-Numpad вычесть | 108
-Numpad точка | 109
-Numpad делить | 110
+Numpad вычесть | 109
+Numpad точка | 110
+Numpad делить | 111
