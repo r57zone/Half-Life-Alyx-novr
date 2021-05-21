@@ -143,6 +143,7 @@ int KEY_ID_THROW_ENERGY_BALL;
 int KEY_ID_AIMING_MODE;
 int KEY_ID_AIMING;
 int KEY_ID_LEFT_HAND_CELL;
+int KEY_ID_RIGHT_HAND_CELL;
 int KEY_ID_LEFT_CTRL_MOTION;
 
 int KEY_ID_ROTATION_CONTROLLERS_UP;
@@ -265,9 +266,11 @@ void MouseToYawPitch()
 void GetHMDData(__out THMD *HMD)
 {
 	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_HIGHER) & 0x8000) != 0)
-		HMDPosZ += StepPos;
+		if (HMDPosZ < 0.5)
+			HMDPosZ += StepPos;
 	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_LOWER) & 0x8000) != 0)
-		HMDPosZ -= StepPos;
+		if (HMDPosZ - CrouchOffsetZ > -1.5)
+			HMDPosZ -= StepPos;
 	if ((GetAsyncKeyState(VK_SUBTRACT) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_PLAYER_RISE_RESET) & 0x8000) != 0)
 		HMDPosZ = 0; //Minus numpad or -
 
@@ -357,6 +360,13 @@ void GetControllersData(__out TController *FirstController, __out TController *S
 		RightHandYaw = -45;
 		RightRadDist = 0.17; //0.15
 		RightAngleDist = -39.5;
+	}
+
+	if ((GetAsyncKeyState(KEY_ID_RIGHT_HAND_CELL) & 0x8000) != 0)
+	{
+		LeftHandYaw = 45;
+		LeftAngleDist = 39.5;
+		LeftRadDist = 0.17;
 	}
 
 	//Crouch / Присесть
@@ -460,8 +470,12 @@ void GetControllersData(__out TController *FirstController, __out TController *S
 	}
 
 	//Movement controllers
-	if ((GetAsyncKeyState(KEY_ID_MOVE_CONTROLLERS_FORWARD) & 0x8000) != 0) HandRadDist += 0.005;
-	if ((GetAsyncKeyState(KEY_ID_MOVE_CONTROLLERS_BACK) & 0x8000) != 0) HandRadDist -= 0.005;
+	if ((GetAsyncKeyState(KEY_ID_MOVE_CONTROLLERS_FORWARD) & 0x8000) != 0)
+		if (HandRadDist < 0.4)
+			HandRadDist += 0.005;
+	if ((GetAsyncKeyState(KEY_ID_MOVE_CONTROLLERS_BACK) & 0x8000) != 0)
+		if (HandRadDist > -0.4)
+			HandRadDist -= 0.005;
 	if ((GetAsyncKeyState(KEY_ID_MOVE_CONTROLLERS_FORWARD) & 0x8000) == 0 && (GetAsyncKeyState(KEY_ID_MOVE_CONTROLLERS_BACK) & 0x8000) == 0)
 		HandRadDist = 0;
 
@@ -1400,12 +1414,13 @@ EVRInitError CServerDriver_Sample::Init( vr::IVRDriverContext *pDriverContext )
 	KEY_ID_PLAYER_RISE_RESET = IniFile.ReadInteger("Keys", "PLAYER_RISE_RESET", 189); //-
 	KEY_ID_CROUCH = IniFile.ReadInteger("Keys", "CROUCH", VK_RCONTROL);
 
-	KEY_ID_COVER_MOUTH = IniFile.ReadInteger("Keys", "COVER_MOUTH", 'P');
+	KEY_ID_COVER_MOUTH = IniFile.ReadInteger("Keys", "COVER_MOUTH", 'I');
 	KEY_ID_LASER_MODE = IniFile.ReadInteger("Keys", "LASER_MODE", 'L');
 	KEY_ID_THROW_ENERGY_BALL = IniFile.ReadInteger("Keys", "THROW_ENERGY_BALL", VK_END);
 	KEY_ID_AIMING_MODE = IniFile.ReadInteger("Keys", "AIMING_MODE", VK_DELETE);
 	KEY_ID_AIMING = IniFile.ReadInteger("Keys", "AIMING", VK_XBUTTON1);
 	KEY_ID_LEFT_HAND_CELL = IniFile.ReadInteger("Keys", "LEFT_HAND_CELL", 'O');
+	KEY_ID_RIGHT_HAND_CELL = IniFile.ReadInteger("Keys", "RIGHT_HAND_CELL", 'P');
 	KEY_ID_LEFT_CTRL_MOTION = IniFile.ReadInteger("Keys", "LEFT_CTRL_MOTION", VK_RBUTTON);
 
 	KEY_ID_ROTATION_CONTROLLERS_UP = IniFile.ReadInteger("Keys", "ROTATION_CONTROLLERS_UP", 'U');
