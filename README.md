@@ -62,9 +62,10 @@ Numpad "-" или "-" | Reset move down and up | Return to position before movin
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - Сhapter 5: North Star), reset after use | Rotation of both controllers
 "Y" | Reset controllers’ rotation with the buttons above | Return controllers to state before rotation
-"P" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
+"I" | Cover mouth (Chapter 7: Jeff) | Moving the controller in front of the head
 "L" | Mode for clearing lasers (reduced sensitivity and moving on forward and backward arrows) | Move the right controller
 "O" | Left hand cell (use with right hand trigger) | Moving the right controller
+"P" | Right hand cell (use with right hand trigger) | Moving the right controller
 "N", "M" | turn left, turn right | Pressing the left and right touch panels of the right controller
 
 There are also several alternative button bindings in the driver archive. There is a profiles key binding for WASD for spectator mode (or use a different language layout, without the character "S"), for keyboards without Numpad and so on.
