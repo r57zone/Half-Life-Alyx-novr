@@ -138,6 +138,7 @@ int KEY_ID_PLAYER_RISE_LOWER;
 int KEY_ID_PLAYER_RISE_RESET;
 int KEY_ID_CROUCH;
 int KEY_ID_COVER_MOUTH;
+int KEY_ID_PUT_HAT;
 int KEY_ID_LASER_MODE;
 int KEY_ID_THROW_ENERGY_BALL;
 int KEY_ID_AIMING_MODE;
@@ -215,6 +216,7 @@ bool UseGranade = false;
 
 bool Aiming = false;
 bool CoverMouth = false;
+bool PutHat = false;
 bool LaserMode = false;
 float LaserPos = 0, LaserYaw = 0;
 
@@ -429,12 +431,21 @@ void GetControllersData(__out TController *FirstController, __out TController *S
 
 	//Cover mouth / Прикрыть рот
 	if ((GetAsyncKeyState(KEY_ID_COVER_MOUTH) & 0x8000) != 0) CoverMouth = true;
-	if ((GetAsyncKeyState(KEY_ID_LEFT_CTRL_MOTION) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_CHANGE_WEAPON) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_AIMING) & 0x8000) != 0) CoverMouth = false;
+	if ((GetAsyncKeyState(KEY_ID_LEFT_CTRL_MOTION) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_CHANGE_WEAPON) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_AIMING) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_PUT_HAT) & 0x8000) != 0) CoverMouth = false;
 	if (CoverMouth)
 	{
 		LeftHandYaw = 90;
 		LeftAngleDist = 4;
 		LeftRadDist = 0.34;
+	}
+
+	if ((GetAsyncKeyState(KEY_ID_PUT_HAT) & 0x8000) != 0) PutHat = true;
+	if ((GetAsyncKeyState(KEY_ID_LEFT_CTRL_MOTION) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_CHANGE_WEAPON) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_AIMING) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_COVER_MOUTH) & 0x8000) != 0) PutHat = false;
+	if (PutHat)
+	{
+		LeftHandYaw = 0;
+		LeftAngleDist = -120;
+		LeftRadDist = 0.22;
 	}
 
 	//Motion left controller on right click mode
@@ -502,6 +513,11 @@ void GetControllersData(__out TController *FirstController, __out TController *S
 		FirstCtrlPos[2] = 0.12 - CrouchOffsetZ + HMDPosZ;
 	}
 
+	if (PutHat) //PART 2
+	{
+		FirstCtrlPos[2] = 0.35 - CrouchOffsetZ + HMDPosZ; //0.4
+	}
+
 	FirstController->X = FirstCtrlPos[0];
 	FirstController->Y = FirstCtrlPos[1];
 	FirstController->Z = FirstCtrlPos[2] + LeftYOffset - 0.15;
@@ -535,6 +551,12 @@ void GetControllersData(__out TController *FirstController, __out TController *S
 
 	if (CoverMouth) //Прикрытие рта (PART 3)
 		FirstController->Pitch = 45;
+
+	//Put Hat (PART 3)
+	if (PutHat) {
+		FirstController->Roll = 0; //0
+		FirstController->Pitch = 90; //90
+	}
 
 	//Energy ball 3
 	if ((GetAsyncKeyState(KEY_ID_THROW_ENERGY_BALL) & 0x8000) != 0)
@@ -1415,6 +1437,7 @@ EVRInitError CServerDriver_Sample::Init( vr::IVRDriverContext *pDriverContext )
 	KEY_ID_CROUCH = IniFile.ReadInteger("Keys", "CROUCH", VK_RCONTROL);
 
 	KEY_ID_COVER_MOUTH = IniFile.ReadInteger("Keys", "COVER_MOUTH", 'I');
+	KEY_ID_PUT_HAT = IniFile.ReadInteger("Keys", "PUT_HAT", 'T');
 	KEY_ID_LASER_MODE = IniFile.ReadInteger("Keys", "LASER_MODE", 'L');
 	KEY_ID_THROW_ENERGY_BALL = IniFile.ReadInteger("Keys", "THROW_ENERGY_BALL", VK_END);
 	KEY_ID_AIMING_MODE = IniFile.ReadInteger("Keys", "AIMING_MODE", VK_DELETE);
