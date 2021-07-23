@@ -29,4 +29,4 @@
 Сначала запускайте SteamVR, а только потом игру.
 
 ## Другие инструкции:
-[От Holdy](https://youtu.be/oM2a9sBC3V0?t=71), [от PSIHBuyBack](https://youtu.be/O9cjczI2Ivg).
+[От Clone0121](https://youtu.be/og6FHco3mXE), [От Holdy](https://youtu.be/oM2a9sBC3V0?t=71), [от PSIHBuyBack](https://youtu.be/O9cjczI2Ivg).
