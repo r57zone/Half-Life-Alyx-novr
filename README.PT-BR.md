@@ -1,7 +1,6 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
-[🇧🇷](https://github.com/r57zone/Half-Life-Alyx-novr/lang/pt-br/README.PT-BR.md) 
-
+[![PT-BR](https://user-images.githubusercontent.com/9499881/132351701-de84d5c1-92b0-4b0a-8350-b40e7618b8ab.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.PT-BR.md) 
 # Half-Life: Alyx non-VR mod (driver)
 Primeiro driver que te possibilita completar [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) sem VR apenas usando teclado e mouse. Esse método te permite completar o jogo e experimentar a mecânica do VR. Alguns momentos serão difíceis mas são possíveis de serem passados. Além disso, este método permite que você obtenha uma jogabilidade muito interessante e incomum (às vezes semelhante a Amnesia ou Penumbra), o que infelizmente quase nunca aparece nos jogos. Completei com VR e completei dessa forma, e acho as duas experiências muito interessantes.
 
@@ -26,13 +25,13 @@ O driver pode ser usado para outros jogos que utilizam VR, por exemplo, você po
 * **[Comentários](#Comentários)**
 
 ## Instalação
-O processo de instalação pode ser visto neste [texto com instruções detalhadas](https://github.com/r57zone/Half-Life-Alyx-novr/lang/pt-br/SETUP.PT-BR.md).
+O processo de instalação pode ser visto neste [texto com instruções detalhadas](https://github.com/r57zone/Half-Life-Alyx-novr/SETUP.PT-BR.md).
 
 Siga cada item cuidadosamente.
 
 
 
-Leia sobre **editar configurações de teclas** [aqui](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.md).
+Leia sobre **editar configurações de teclas** [aqui](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/BINDINGS.PT-BR.md).
 
 ## Controles
 ![](https://user-images.githubusercontent.com/9499881/81843920-62308480-955f-11ea-8f30-f9ee333fd0a7.PNG)
