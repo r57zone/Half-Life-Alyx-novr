@@ -149,6 +149,10 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
+**The mouse moves jerkily** - Try changing the resolution to "1280x720".
+
+
+
 **Buttons don't work or high sensitivity** - start SteamVR first and only then the game.
 
 
