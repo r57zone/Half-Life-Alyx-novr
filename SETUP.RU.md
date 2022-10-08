@@ -9,7 +9,7 @@
 7. В настройках играх выбрать "Передвижение: Скольжение" (для плавного хождения как в обычных играх) и отключите поворот (чтобы надпись используйте поворот не мешала).
 8. (Необязательно) Для игры в режиме зрителя нужно изменить параметр "Stereo" на true. Выставить "renderWidth" и "renderHeight" - 1920. Для отключения курсора используем утилиту "HideCursor" (в архиве с драйвером). Также придется загружать игру в "Headset Window".
 
-## Старый метод: TrueOpenVR
+## Старый метод: TrueOpenVR (не рекомендуется)
 1. Распаковать [TrueOpenVR](https://github.com/TrueOpenVR/TrueOpenVR-Core/releases) в папку "C:\Program File\TrueOpenVR"
 2. Распаковать драйвер ["HalfLifeAlyx64.dll"](https://github.com/r57zone/Half-Life-Alyx-novr/releases) в папку "C:\Program File\TrueOpenVR\Settings\Drivers".
 3. Запустить "TrueOpenVR Settings.exe" (C:\Program File\TrueOpenVR\Setttings), выбрать там "HalfLifeAlyx64.dll" и нажать применить.
