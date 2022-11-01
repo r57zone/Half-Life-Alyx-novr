@@ -25,7 +25,7 @@ The driver can be used for other VR games, for example, you can play DOOM VFR, W
 * **[Feedback](#feedback)**
 
 ## Setup
-The setup process can be seen in [this instruction with video materials](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP2.md) or [detailed text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
+The setup process can be seen in [text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
 
 Follow each item carefully.
 
@@ -58,7 +58,7 @@ Backspace | Health and ammo display | Left controller rotation
 End | Throwing an energy ball (chapter 11: Departure), if it doesn’t work, try to click quickly several times | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP and PageDown | Move up and down | Moving controllers and head up and down
-Numpad "-" или "-" | Reset move down and up | Return to position before moving
+Numpad "-" | Reset move down and up | Return to position before moving
 "{" and "}"  | Moving the left controller up and down, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward
 "U", "J", "H", "K" | Controllers rotation (use only for certain moments necessary in the game - Сhapter 5: North Star), reset after use | Rotation of both controllers

@@ -25,7 +25,7 @@ O driver pode ser usado para outros jogos que utilizam VR, por exemplo, você po
 * **[Comentários](#Comentários)**
 
 ## Instalação
-O processo de instalação pode ser visto neste [texto com instruções detalhadas](https://github.com/r57zone/Half-Life-Alyx-novr/SETUP.PT-BR.md).
+O processo de instalação pode ser visto neste [texto com instruções](https://github.com/r57zone/Half-Life-Alyx-novr/SETUP.PT-BR.md).
 
 Siga cada item cuidadosamente.
 
@@ -58,7 +58,7 @@ Backspace | Exibição de saúde e munição | Rotação do controle esquerdo
 End | Jogando uma bola de energia (chapter 11: Departure), se não funcionar, tente clicar rapidamente várias vezes | Movimento do controle esquerdo
 Delete | Ativando e desativando o modo de mira (também desativado quando os botões direito e do meio do mouse são clicados) | Movendo os controles na frente do rosto
 PageUP e PageDown | Mova para cima e para baixo | Movendo controles e cabeça para cima e para baixo
-Numpad "-" e "-" | Redefinir mover para baixo e para cima | Retorne à posição antes de mover
+Numpad "-" | Redefinir mover para baixo e para cima | Retorne à posição antes de mover
 "{" e "}"  | Movendo o controle esquerdo para cima e para baixo, no modo de movimento do controle esquerdo (botão direito do mouse) | Mova o controle esquerdo para cima
 Insert e Home | O movimento do controle para frente e para trás | O movimento do controle para frente e para trás
 "U", "J", "H", "K" | Rotação dos controles (use apenas para certos momentos necessários no jogo - Сhapter 5: North Star), redefir após o uso | Rotação de ambos os controles

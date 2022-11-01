@@ -51,6 +51,126 @@ inline void HmdMatrix_SetIdentity( HmdMatrix34_t *pMatrix )
 	pMatrix->m[2][3] = 0.f;
 }
 
+int KeyNameToKeyCode(std::string KeyName) {
+	std::transform(KeyName.begin(), KeyName.end(), KeyName.begin(), ::toupper);
+
+	if (KeyName == "NONE") return 0;
+
+	else if (KeyName == "MOUSE-LEFT-BTN") return VK_LBUTTON;
+	else if (KeyName == "MOUSE-RIGHT-BTN") return VK_RBUTTON;
+	else if (KeyName == "MOUSE-MIDDLE-BTN") return VK_MBUTTON;
+	else if (KeyName == "MOUSE-SIDE1-BTN") return VK_XBUTTON1;
+	else if (KeyName == "MOUSE-SIDE2-BTN") return VK_XBUTTON2;
+
+	else if (KeyName == "ESCAPE") return VK_ESCAPE;
+	else if (KeyName == "F1") return VK_F1;
+	else if (KeyName == "F2") return VK_F2;
+	else if (KeyName == "F3") return VK_F3;
+	else if (KeyName == "F4") return VK_F4;
+	else if (KeyName == "F5") return VK_F5;
+	else if (KeyName == "F6") return VK_F6;
+	else if (KeyName == "F7") return VK_F7;
+	else if (KeyName == "F8") return VK_F8;
+	else if (KeyName == "F9") return VK_F9;
+	else if (KeyName == "F10") return VK_F10;
+	else if (KeyName == "F11") return VK_F11;
+	else if (KeyName == "F12") return VK_F12;
+
+	else if (KeyName == "~") return 192;
+	else if (KeyName == "1") return '1';
+	else if (KeyName == "2") return '2';
+	else if (KeyName == "3") return '3';
+	else if (KeyName == "4") return '4';
+	else if (KeyName == "5") return '5';
+	else if (KeyName == "6") return '6';
+	else if (KeyName == "7") return '7';
+	else if (KeyName == "8") return '8';
+	else if (KeyName == "9") return '9';
+	else if (KeyName == "0") return '0';
+	else if (KeyName == "-") return 189;
+	else if (KeyName == "=") return 187;
+
+	else if (KeyName == "TAB") return VK_TAB;
+	else if (KeyName == "CAPS-LOCK") return VK_CAPITAL;
+	else if (KeyName == "SHIFT") return VK_SHIFT;
+	else if (KeyName == "CTRL") return VK_CONTROL;
+	else if (KeyName == "RCTRL") return VK_RCONTROL;
+	else if (KeyName == "WIN") return VK_LWIN;
+	else if (KeyName == "ALT") return VK_MENU;
+	else if (KeyName == "SPACE") return VK_SPACE;
+	else if (KeyName == "ENTER") return VK_RETURN;
+	else if (KeyName == "BACKSPACE") return VK_BACK;
+
+	else if (KeyName == "Q") return 'Q';
+	else if (KeyName == "W") return 'W';
+	else if (KeyName == "E") return 'E';
+	else if (KeyName == "R") return 'R';
+	else if (KeyName == "T") return 'T';
+	else if (KeyName == "Y") return 'Y';
+	else if (KeyName == "U") return 'U';
+	else if (KeyName == "I") return 'I';
+	else if (KeyName == "O") return 'O';
+	else if (KeyName == "P") return 'P';
+	else if (KeyName == "[") return 219;
+	else if (KeyName == "]") return 221;
+	else if (KeyName == "A") return 'A';
+	else if (KeyName == "S") return 'S';
+	else if (KeyName == "D") return 'D';
+	else if (KeyName == "F") return 'F';
+	else if (KeyName == "G") return 'G';
+	else if (KeyName == "H") return 'H';
+	else if (KeyName == "J") return 'J';
+	else if (KeyName == "K") return 'K';
+	else if (KeyName == "L") return 'L';
+	else if (KeyName == ":") return 186;
+	else if (KeyName == "APOSTROPHE") return 222;
+	else if (KeyName == "\\") return 220;
+	else if (KeyName == "Z") return 'Z';
+	else if (KeyName == "X") return 'X';
+	else if (KeyName == "C") return 'C';
+	else if (KeyName == "V") return 'V';
+	else if (KeyName == "B") return 'B';
+	else if (KeyName == "N") return 'N';
+	else if (KeyName == "M") return 'M';
+	else if (KeyName == "<") return 188;
+	else if (KeyName == ">") return 190;
+	else if (KeyName == "?") return 191;
+
+	else if (KeyName == "PRINTSCREEN") return VK_SNAPSHOT;
+	else if (KeyName == "SCROLL-LOCK") return VK_SCROLL;
+	else if (KeyName == "PAUSE") return VK_PAUSE;
+	else if (KeyName == "INSERT") return VK_INSERT;
+	else if (KeyName == "HOME") return VK_HOME;
+	else if (KeyName == "PAGE-UP") return VK_NEXT;
+	else if (KeyName == "DELETE") return VK_DELETE;
+	else if (KeyName == "END") return VK_END;
+	else if (KeyName == "PAGE-DOWN") return VK_PRIOR;
+
+	else if (KeyName == "UP") return VK_UP;
+	else if (KeyName == "DOWN") return VK_DOWN;
+	else if (KeyName == "LEFT") return VK_LEFT;
+	else if (KeyName == "RIGHT") return VK_RIGHT;
+
+	else if (KeyName == "NUM-LOCK") return VK_NUMLOCK;
+	else if (KeyName == "NUMPAD0") return VK_NUMPAD0;
+	else if (KeyName == "NUMPAD1") return VK_NUMPAD1;
+	else if (KeyName == "NUMPAD2") return VK_NUMPAD2;
+	else if (KeyName == "NUMPAD3") return VK_NUMPAD3;
+	else if (KeyName == "NUMPAD4") return VK_NUMPAD4;
+	else if (KeyName == "NUMPAD5") return VK_NUMPAD5;
+	else if (KeyName == "NUMPAD6") return VK_NUMPAD6;
+	else if (KeyName == "NUMPAD7") return VK_NUMPAD7;
+	else if (KeyName == "NUMPAD8") return VK_NUMPAD8;
+	else if (KeyName == "NUMPAD9") return VK_NUMPAD9;
+
+	else if (KeyName == "NUMPAD-DIVIDE") return VK_DIVIDE;
+	else if (KeyName == "NUMPAD-MULTIPLY") return VK_MULTIPLY;
+	else if (KeyName == "NUMPAD-MINUS") return VK_SUBTRACT;
+	else if (KeyName == "NUMPAD-PLUS") return VK_ADD;
+	else if (KeyName == "NUMPAD-DEL") return VK_DECIMAL;
+
+	else return 0;
+}
 
 // keys for use with the settings API
 static const char * const k_pch_Sample_Section = "hlalyx";
@@ -69,6 +189,8 @@ static const char * const k_pch_Sample_ZoomHeight_Float = "ZoomHeight";
 static const char * const k_pch_Sample_FOV_Float = "FOV";
 static const char * const k_pch_Sample_Stereo_Bool = "Stereo";
 static const char * const k_pch_Sample_DebugMode_Bool = "DebugMode";
+
+
 
 //Velocity
 double FirstCtrlLastPos[3] = { 0, 0, 0 }, SecondCtrlLastPos[3] = { 0, 0, 0 };
@@ -267,14 +389,14 @@ void MouseToYawPitch()
 
 void GetHMDData(__out THMD *HMD)
 {
-	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_HIGHER) & 0x8000) != 0)
+	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_LOWER) & 0x8000) != 0)
 		if (HMDPosZ < 0.5)
 			HMDPosZ += StepPos;
-	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_LOWER) & 0x8000) != 0)
+	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_HIGHER) & 0x8000) != 0)
 		if (HMDPosZ - CrouchOffsetZ > -1.5)
 			HMDPosZ -= StepPos;
-	if ((GetAsyncKeyState(VK_SUBTRACT) & 0x8000) != 0 || (GetAsyncKeyState(KEY_ID_PLAYER_RISE_RESET) & 0x8000) != 0)
-		HMDPosZ = 0; //Minus numpad or -
+	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_RESET) & 0x8000) != 0)
+		HMDPosZ = 0;
 
 	HMD->X = 0;
 	HMD->Y = 0;
@@ -1143,7 +1265,7 @@ public:
 		// avoid "not fullscreen" warnings from vrmonitor
 		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_IsOnDesktop_Bool, false);
 
-		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_InputProfilePath_String, "{hlalyx}/input/controller_profile.json");
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_InputProfilePath_String, "{htc}/input/controller_profile.json");
 
 		/*bool bSetupIconUsingExternalResourceFile = false;
 		if (!bSetupIconUsingExternalResourceFile)
@@ -1414,54 +1536,54 @@ EVRInitError CServerDriver_Sample::Init( vr::IVRDriverContext *pDriverContext )
 
 	CIniReader IniFile((char *)configPath);
 
-	KEY_ID_LEFT_TRIGGER = IniFile.ReadInteger("Keys", "LEFT_TRIGGER", VK_RSHIFT);
-	KEY_ID_LEFT_MENU = IniFile.ReadInteger("Keys", "LEFT_MENU", VK_RETURN);
-	KEY_ID_LEFT_GRIP = IniFile.ReadInteger("Keys", "LEFT_GRIP", VK_ESCAPE);
-	KEY_ID_LEFT_SYSTEM = IniFile.ReadInteger("Keys", "LEFT_SYSTEM", VK_F9);
-	KEY_ID_RIGHT_TRIGGER = IniFile.ReadInteger("Keys", "RIGHT_TRIGGER", VK_LBUTTON);
-	KEY_ID_RIGHT_TRIGGER2 = IniFile.ReadInteger("Keys", "RIGHT_TRIGGER2", VK_NUMPAD1);
-	KEY_ID_RIGHT_MENU = IniFile.ReadInteger("Keys", "RIGHT_MENU", VK_DECIMAL);
-	KEY_ID_RIGHT_GRIP = IniFile.ReadInteger("Keys", "RIGHT_GRIP", VK_NUMPAD0);
-	KEY_ID_CHANGE_WEAPON = IniFile.ReadInteger("Keys", "CHANGE_WEAPON", VK_MBUTTON);
-	KEY_ID_TELEPORT = IniFile.ReadInteger("Keys", "TELEPORT", VK_SPACE);
-	KEY_ID_BACKPACK = IniFile.ReadInteger("Keys", "BACKPACK", 191); //?
-	KEY_ID_FIRST_AID_SYRINGE = IniFile.ReadInteger("Keys", "FIRST_AID_SYRINGE", 220);
-	KEY_ID_FIXING_LEFT_CONTROLLER = IniFile.ReadInteger("Keys", "FIXING_LEFT_CONTROLLER", 222);
-	KEY_ID_THROW_ITEMS = IniFile.ReadInteger("Keys", "THROW_ITEMS", 186); //";"
-	KEY_ID_HEALTH_AND_AMMO_DISPLAY = IniFile.ReadInteger("Keys", "HEALTH_AND_AMMO_DISPLAY", VK_BACK);
-	KEY_ID_MOVE_CONTROLLERS_FORWARD = IniFile.ReadInteger("Keys", "MOVE_CONTROLLERS_FORWARD", VK_INSERT);
-	KEY_ID_MOVE_CONTROLLERS_BACK = IniFile.ReadInteger("Keys", "MOVE_CONTROLLERS_BACK", VK_HOME);
-	KEY_ID_PLAYER_RISE_HIGHER = IniFile.ReadInteger("Keys", "PLAYER_RISE_HIGHER", VK_PRIOR);
-	KEY_ID_PLAYER_RISE_LOWER = IniFile.ReadInteger("Keys", "PLAYER_RISE_LOWER", VK_NEXT);
-	KEY_ID_PLAYER_RISE_RESET = IniFile.ReadInteger("Keys", "PLAYER_RISE_RESET", 189); //-
-	KEY_ID_CROUCH = IniFile.ReadInteger("Keys", "CROUCH", VK_RCONTROL);
+	KEY_ID_LEFT_TRIGGER = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT_TRIGGER", "SHIFT"));
+	KEY_ID_LEFT_MENU = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT_MENU", "ENTER"));
+	KEY_ID_LEFT_GRIP = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT_GRIP", "ESCAPE"));
+	KEY_ID_LEFT_SYSTEM = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT_SYSTEM", "F9"));
+	KEY_ID_RIGHT_TRIGGER = KeyNameToKeyCode(IniFile.ReadString("Keys", "RIGHT_TRIGGER", "MOUSE-LEFT-BTN"));
+	KEY_ID_RIGHT_TRIGGER2 = KeyNameToKeyCode(IniFile.ReadString("Keys", "RIGHT_TRIGGER2", "NUMPAD1"));
+	KEY_ID_RIGHT_MENU = KeyNameToKeyCode(IniFile.ReadString("Keys", "RIGHT_MENU", "NUMPAD-DEL"));
+	KEY_ID_RIGHT_GRIP = KeyNameToKeyCode(IniFile.ReadString("Keys", "RIGHT_GRIP", "NUMPAD0"));
+	KEY_ID_CHANGE_WEAPON = KeyNameToKeyCode(IniFile.ReadString("Keys", "CHANGE_WEAPON", "MOUSE-MIDDLE-BTN"));
+	KEY_ID_TELEPORT = KeyNameToKeyCode(IniFile.ReadString("Keys", "TELEPORT", "SPACE"));
+	KEY_ID_BACKPACK = KeyNameToKeyCode(IniFile.ReadString("Keys", "BACKPACK", "?"));
+	KEY_ID_FIRST_AID_SYRINGE = KeyNameToKeyCode(IniFile.ReadString("Keys", "FIRST_AID_SYRINGE", "\\"));
+	KEY_ID_FIXING_LEFT_CONTROLLER = KeyNameToKeyCode(IniFile.ReadString("Keys", "FIXING_LEFT_CONTROLLER", "APOSTROPHE"));
+	KEY_ID_THROW_ITEMS = KeyNameToKeyCode(IniFile.ReadString("Keys", "THROW_ITEMS", ";"));
+	KEY_ID_HEALTH_AND_AMMO_DISPLAY = KeyNameToKeyCode(IniFile.ReadString("Keys", "HEALTH_AND_AMMO_DISPLAY", "BACKSPACE"));
+	KEY_ID_MOVE_CONTROLLERS_FORWARD = KeyNameToKeyCode(IniFile.ReadString("Keys", "MOVE_CONTROLLERS_FORWARD", "INSERT"));
+	KEY_ID_MOVE_CONTROLLERS_BACK = KeyNameToKeyCode(IniFile.ReadString("Keys", "MOVE_CONTROLLERS_BACK", "HOME"));
+	KEY_ID_PLAYER_RISE_HIGHER = KeyNameToKeyCode(IniFile.ReadString("Keys", "PLAYER_RISE_HIGHER", "PAGE-UP"));
+	KEY_ID_PLAYER_RISE_LOWER = KeyNameToKeyCode(IniFile.ReadString("Keys", "PLAYER_RISE_LOWER", "PAGE-DOWN"));
+	KEY_ID_PLAYER_RISE_RESET = KeyNameToKeyCode(IniFile.ReadString("Keys", "PLAYER_RISE_RESET", "NUMPAD-MINUS"));
+	KEY_ID_CROUCH = KeyNameToKeyCode(IniFile.ReadString("Keys", "CROUCH", "CTRL"));
 
-	KEY_ID_COVER_MOUTH = IniFile.ReadInteger("Keys", "COVER_MOUTH", 'I');
-	KEY_ID_PUT_HAT = IniFile.ReadInteger("Keys", "PUT_HAT", 'T');
-	KEY_ID_LASER_MODE = IniFile.ReadInteger("Keys", "LASER_MODE", 'L');
-	KEY_ID_THROW_ENERGY_BALL = IniFile.ReadInteger("Keys", "THROW_ENERGY_BALL", VK_END);
-	KEY_ID_AIMING_MODE = IniFile.ReadInteger("Keys", "AIMING_MODE", VK_DELETE);
-	KEY_ID_AIMING = IniFile.ReadInteger("Keys", "AIMING", VK_XBUTTON1);
-	KEY_ID_LEFT_HAND_CELL = IniFile.ReadInteger("Keys", "LEFT_HAND_CELL", 'O');
-	KEY_ID_RIGHT_HAND_CELL = IniFile.ReadInteger("Keys", "RIGHT_HAND_CELL", 'P');
-	KEY_ID_LEFT_CTRL_MOTION = IniFile.ReadInteger("Keys", "LEFT_CTRL_MOTION", VK_RBUTTON);
+	KEY_ID_COVER_MOUTH = KeyNameToKeyCode(IniFile.ReadString("Keys", "COVER_MOUTH", "I"));
+	KEY_ID_PUT_HAT = KeyNameToKeyCode(IniFile.ReadString("Keys", "PUT_HAT", "T"));
+	KEY_ID_LASER_MODE = KeyNameToKeyCode(IniFile.ReadString("Keys", "LASER_MODE", "L"));
+	KEY_ID_THROW_ENERGY_BALL = KeyNameToKeyCode(IniFile.ReadString("Keys", "THROW_ENERGY_BALL", "END"));
+	KEY_ID_AIMING_MODE = KeyNameToKeyCode(IniFile.ReadString("Keys", "AIMING_MODE", "DELETE"));
+	KEY_ID_AIMING = KeyNameToKeyCode(IniFile.ReadString("Keys", "AIMING", "MOUSE-SIDE1-BTN"));
+	KEY_ID_LEFT_HAND_CELL = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT_HAND_CELL", "O"));
+	KEY_ID_RIGHT_HAND_CELL = KeyNameToKeyCode(IniFile.ReadString("Keys", "RIGHT_HAND_CELL", "P"));
+	KEY_ID_LEFT_CTRL_MOTION = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT_CTRL_MOTION", "MOUSE-RIGHT-BTN"));
 
-	KEY_ID_ROTATION_CONTROLLERS_UP = IniFile.ReadInteger("Keys", "ROTATION_CONTROLLERS_UP", 'U');
-	KEY_ID_ROTATION_CONTROLLERS_DOWN = IniFile.ReadInteger("Keys", "ROTATION_CONTROLLERS_DOWN", 'J');
-	KEY_ID_ROTATION_CONTROLLERS_LEFT = IniFile.ReadInteger("Keys", "ROTATION_CONTROLLERS_LEFT", 'H');
-	KEY_ID_ROTATION_CONTROLLERS_RIGHT = IniFile.ReadInteger("Keys", "ROTATION_CONTROLLERS_RIGHT", 'K');
-	KEY_ID_ROTATION_CONTROLLERS_RESET = IniFile.ReadInteger("Keys", "ROTATION_CONTROLLERS_RESET", 'Y');
+	KEY_ID_ROTATION_CONTROLLERS_UP = KeyNameToKeyCode(IniFile.ReadString("Keys", "ROTATION_CONTROLLERS_UP", "U"));
+	KEY_ID_ROTATION_CONTROLLERS_DOWN = KeyNameToKeyCode(IniFile.ReadString("Keys", "ROTATION_CONTROLLERS_DOWN", "J"));
+	KEY_ID_ROTATION_CONTROLLERS_LEFT = KeyNameToKeyCode(IniFile.ReadString("Keys", "ROTATION_CONTROLLERS_LEFT", "H"));
+	KEY_ID_ROTATION_CONTROLLERS_RIGHT = KeyNameToKeyCode(IniFile.ReadString("Keys", "ROTATION_CONTROLLERS_RIGHT", "K"));
+	KEY_ID_ROTATION_CONTROLLERS_RESET = KeyNameToKeyCode(IniFile.ReadString("Keys", "ROTATION_CONTROLLERS_RESET", "Y"));
 
-	KEY_ID_MOTION_MODE_MOVE_UP = IniFile.ReadInteger("Keys", "MOTION_MODE_MOVE_UP", 219);
-	KEY_ID_MOTION_MODE_MOVE_DOWN = IniFile.ReadInteger("Keys", "MOTION_MODE_MOVE_DOWN", 221);
+	KEY_ID_MOTION_MODE_MOVE_UP = KeyNameToKeyCode(IniFile.ReadString("Keys", "MOTION_MODE_MOVE_UP", "["));
+	KEY_ID_MOTION_MODE_MOVE_DOWN = KeyNameToKeyCode(IniFile.ReadString("Keys", "MOTION_MODE_MOVE_DOWN", "]"));
 
-	KEY_ID_TURN_LEFT = IniFile.ReadInteger("Keys", "TURN_LEFT", 'N');
-	KEY_ID_TURN_RIGHT = IniFile.ReadInteger("Keys", "TURN_RIGHT", 'M');
+	KEY_ID_TURN_LEFT = KeyNameToKeyCode(IniFile.ReadString("Keys", "TURN_LEFT", "N"));
+	KEY_ID_TURN_RIGHT = KeyNameToKeyCode(IniFile.ReadString("Keys", "TURN_RIGHT", "M"));
 
-	KEY_ID_UP = IniFile.ReadInteger("Keys", "UP", VK_UP);
-	KEY_ID_DOWN = IniFile.ReadInteger("Keys", "DOWN", VK_DOWN);
-	KEY_ID_LEFT = IniFile.ReadInteger("Keys", "LEFT", VK_LEFT);
-	KEY_ID_RIGHT = IniFile.ReadInteger("Keys", "RIGHT", VK_RIGHT);
+	KEY_ID_UP = KeyNameToKeyCode(IniFile.ReadString("Keys", "UP", "UP"));
+	KEY_ID_DOWN = KeyNameToKeyCode(IniFile.ReadString("Keys", "DOWN", "DOWN"));
+	KEY_ID_LEFT = KeyNameToKeyCode(IniFile.ReadString("Keys", "LEFT", "LEFT"));
+	KEY_ID_RIGHT = KeyNameToKeyCode(IniFile.ReadString("Keys", "RIGHT", "RIGHT"));
 
 	mouseSensetiveYaw = IniFile.ReadFloat("Main", "AxisX", 0.05);
 	mouseSensetivePitch = IniFile.ReadFloat("Main", "AxisY", 0.04);

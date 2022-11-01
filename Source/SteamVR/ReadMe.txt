@@ -1,1 +1,1 @@
-OpenVR 1.10.30
+OpenVR SDK 1.23.7

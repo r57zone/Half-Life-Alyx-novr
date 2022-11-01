@@ -1,120 +1,113 @@
 ﻿# Editando a configuração de teclas
 Abra o arquivo "HalfLifeAlyx.ini" na pasta "...\Steam\steamapps\common\SteamVR\drivers\hlalyx" (ou o método antigo "...\TrueOpenVR\Settings\Drivers"), use um editor de texto.
 
-Encontre a ação desejada e insira um novo código de tecla.
+Encontre a ação desejada e insira um novo nome de chave.
 
 
 **Atenção!** O botão "S" é usado pelo SteamVR, então as setas WASD não são usadas para mover (na janela do espectador pode). Botões e perfis "WASD" só podem ser usados com um layout de idioma sem o caractere "S", por exemplo, você pode mudar para o layout do idioma russo antes do jogo (se não estiver lá, você pode adicioná-lo durante o jogo e em seguida, excluí-lo).
 
-Já existem várias combinações de teclas prontas no arquivo do driver, talvez uma delas seja adequada para você. Você também pode descobrir os código das teclas usando o "KeyCodeTool", que também está localizado no arquivo do driver.
+Já existem várias combinações de teclas prontas no arquivo do driver, talvez uma delas seja adequada para você.
 
-## Códigos
-Botões do mouse | Código
+## Teclado e mouse
+Nome da chave | Valor
 ------------ | -------------
-Botão esquerdo | 1
-Botão direito | 2
-Botão do meio | 4
-Botão lateral | 5
-Botão lateral 2 | 6
-
-
-Teclas do teclado | Código
------------- | -------------
-F1 | 112
-F2 | 113
-F3 | 114
-F4 | 115
-F5 | 116
-F6 | 117
-F7 | 118
-F8 | 119
-F9 | 120
-F10 | 121
-F11 | 122
-F12 | 123
-Espaço | 32
-BackSpace | 8
-Tab | 9
-Enter | 13
-Shift | 16
-Ctrl | 17
-Alt | 18
-CapsLock | 20
-Esc | 27
-Insert | 45
-PageUp | 33
-PageDown | 34
-End | 35
-Home | 36
-cursor < | 37
-cursor ^ | 38
-cursor > | 39
-cursor v | 40
-Delete | 46
-PrintScreen | 44
-ScrollLock | 145
-0,) | 48
-1 ! | 49
-2 @ | 50
-3 # | 51
-4 $ | 52
-5 % | 53
-6 ^ | 54
-7 & | 55
-8 * | 56
-9 ( | 57
-~ | 192
-_ | 189
-= + | 187
-{ | 219
-} | 221
-; : | 186
-‘ « | 222
-\ | 220
-, < | 188
-. > | 190
-/ ? | 191
-a A | 65
-b B | 66
-c C | 67
-d D | 68
-e E | 69
-f F | 70
-g G | 71
-h H | 72
-i I | 73
-j J | 74
-k K | 75
-l L | 76
-m M | 77
-n N | 78
-o O | 79
-p P | 80
-q Q | 81
-r R | 82
-s S | 83
-t T | 84
-u U | 85
-v V | 86
-w W | 87
-x X | 88
-y Y | 89
-z Z | 90
-Win (left) | 91
-Win (right) | 92
-Menu | 93
-Numpad 0 | 96
-Numpad 1 | 97
-Numpad 2 | 98
-Numpad 3 | 99
-Numpad 4 | 100
-Numpad 5 | 101
-Numpad 6 | 102
-Numpad 7 | 103
-Numpad 8 | 104
-Numpad 9 | 105
-Numpad multiply | 106
-Numpad plus | 107
-Numpad minus | 109
-Numpad del | 110
-Numpad div | 111
+MOUSE LEFT BUTTON | `MOUSE-LEFT-BTN`
+MOUSE RIGHT BUTTON | `MOUSE-RIGHT-BTN`
+MOUSE MIDDLE BUTTON | `MOUSE-MIDDLE-BTN`
+MOUSE SIDE 1 BUTTON | `MOUSE-SIDE1-BTN`
+MOUSE SIDE 2 BUTTON | `MOUSE-SIDE1-BTN`
+ESCAPE | `ESCAPE`
+F1 | `F1`
+F2 | `F2`
+F3 | `F3`
+F4 | `F4`
+F5 | `F5`
+F6 | `F6`
+F7 | `F7`
+F8 | `F8`
+F9 | `F9`
+F10 | `F10`
+F11 | `F11`
+F12 | `F12`
+TAB | `TAB`
+CAPS-LOCK | `CAPS-LOCK`
+SHIFT | `SHIFT`
+CTRL | `CTRL`
+WIN | `WIN`
+ALT | `ALT`
+SPACE | `SPACE`
+ENTER | `ENTER`
+BACKSPACE | `BACKSPACE`
+~ | `~`
+1 | `1`
+2 | `2`
+3 | `3`
+4 | `4`
+5 | `5`
+6 | `6`
+7 | `7`
+8 | `8`
+9 | `9`
+0 | `0`
+\- | `-`
+= + | `=`
+a A | `A`
+b B | `B`
+c C | `C`
+d D | `D`
+e E | `E`
+f F | `F`
+g G | `G`
+h H | `H`
+i I | `I`
+j J | `J`
+k K | `K`
+l L | `L`
+m M | `M`
+n N | `N`
+o O | `O`
+p P | `P`
+q Q | `Q`
+r R | `R`
+s S | `S`
+t T | `T`
+u U | `U`
+v V | `V`
+w W | `W`
+x X | `X`
+y Y | `Y`
+z Z | `Z`
+[ | `[`
+] | `]`
+; : | `:`
+‘ « | `APOSTROPHE`
+\ | `\`
+PRINTSCREEN | `PRINTSCREEN`
+SCROLL-LOCK | `SCROLL-LOCK`
+PAUSE | `PAUSE`
+INSERT | `INSERT`
+DELETE | `DELETE`
+HOME | `HOME`
+END | `END`
+PAGE-UP | `PAGE-UP`
+PAGE-DOWN | `PAGE-DOWN`
+UP | `UP`
+DOWN | `DOWN`
+LEFT | `LEFT`
+RIGHT | `RIGHT`
+NUM-LOCK | `NUM-LOCK`
+NUMPAD 0 | `NUMPAD0`
+NUMPAD 1 | `NUMPAD1`
+NUMPAD 2 | `NUMPAD2`
+NUMPAD 3 | `NUMPAD3`
+NUMPAD 4 | `NUMPAD4`
+NUMPAD 5 | `NUMPAD5`
+NUMPAD 6 | `NUMPAD6`
+NUMPAD 7 | `NUMPAD7`
+NUMPAD 8 | `NUMPAD8`
+NUMPAD 9 | `NUMPAD9`
+NUMPAD / | `NUMPAD-DIVIDE`
+NUMPAD \* | `NUMPAD-MULTIPLY`
+NUMPAD - | `NUMPAD-MINUS`
+NUMPAD + | `NUMPAD-PLUS`
+NUMPAD DEL | `NUMPAD-DEL`
