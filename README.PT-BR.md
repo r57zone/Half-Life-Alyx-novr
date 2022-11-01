@@ -65,7 +65,7 @@ Insert e Home | O movimento do controle para frente e para trás | O movimento d
 "L" | Modo para limpar lasers | Mova o controle direito
 "O", "P" | células da mão esquerda e direita (use junto com a mão direita) | Movendo os controles
 "T" | Coloque o chapéu (use junto com a mão direita) | Movendo o controle esquerdo
-"N", "M" | virar para esquerda, virar para direita | Pressionando os painéis de toque esquerdo e direito do controle direito
+"B", "N" | virar para esquerda, virar para direita | Pressionando os painéis de toque esquerdo e direito do controle direito
 
 Existem também vários atalhos de botão alternativos no arquivo do driver. Há um atalho de tecla de perfis para WASD para modo espectador (ou use um layout de idioma diferente, sem o caractere "S"), para teclados sem teclado numérico e assim por diante.
 
