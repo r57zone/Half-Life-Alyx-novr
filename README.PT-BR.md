@@ -25,9 +25,7 @@ O driver pode ser usado para outros jogos que utilizam VR, por exemplo, você po
 * **[Comentários](#Comentários)**
 
 ## Instalação
-O processo de instalação pode ser visto neste [texto com instruções](https://github.com/r57zone/Half-Life-Alyx-novr/SETUP.PT-BR.md).
-
-Siga cada item cuidadosamente.
+O processo de instalação pode ser visto neste [texto com instruções](https://github.com/r57zone/Half-Life-Alyx-novr/SETUP.PT-BR.md). Siga cada item cuidadosamente.
 
 
 
@@ -54,7 +52,7 @@ Numpad "." | Recarregando uma arma e alguns itens de ação | Menu do controle d
 "?" | Usando uma mochila, use com o botão direito | Movendo o controle esquerdo sobre o lado esquerdo
 " ' " | Fixando o controle esquerdo no lugar (Сhapter 5: North Star) | consertando o controle esquerdo no espaço
 Backspace | Exibição de saúde e munição | Rotação do controle esquerdo
-";" | Arremessar itens (granadas, bolas de energia e assim por diante). Para lançar uma bola de energia no capítulo 11, você precisa pressionar duas vezes o botão | Movimento do controle esquerdo para frente
+";" | Jogar objetos é melhor com o movimento do mouse. Arremessar itens (granadas, bolas de energia e assim por diante). Para lançar uma bola de energia no capítulo 11, você precisa pressionar duas vezes o botão | Movimento do controle esquerdo para frente
 End | Jogando uma bola de energia (chapter 11: Departure), se não funcionar, tente clicar rapidamente várias vezes | Movimento do controle esquerdo
 Delete | Ativando e desativando o modo de mira (também desativado quando os botões direito e do meio do mouse são clicados) | Movendo os controles na frente do rosto
 PageUP e PageDown | Mova para cima e para baixo | Movendo controles e cabeça para cima e para baixo

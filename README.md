@@ -25,9 +25,7 @@ The driver can be used for other VR games, for example, you can play DOOM VFR, W
 * **[Feedback](#feedback)**
 
 ## Setup
-The setup process can be seen in [text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md).
-
-Follow each item carefully.
+The setup process can be seen in [text instruction](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/SETUP.md). Follow each item carefully.
 
 
 
@@ -54,7 +52,7 @@ Numpad "." | Reloading a gun and some action items | Right Controller Menu
 "?" | Using a backpack, use with the Right Shift | Moving the left controller over the left side
 " ' " | Fixing left controller in place (Сhapter 5: North Star) | fixing left controller in space
 Backspace | Health and ammo display | Left controller rotation
-";" | Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
+";" | Throwing objects is better with mouse movement. Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
 End | Throwing an energy ball (chapter 11: Departure), if it doesn’t work, try to click quickly several times | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
 PageUP and PageDown | Move up and down | Moving controllers and head up and down
