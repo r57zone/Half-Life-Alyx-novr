@@ -159,6 +159,9 @@ If you are stuck and can't pass one of the hard moments, then you can use the im
 
 
 
+**Camera does not move in the spectator window** - change the `DebugMode` parameter to `true` in the `default.vrsettings` configuration file.
+
+
 **Controllers stop moving in spectator mode** - Don't use the "Escape" key. If you clicked it, click it again. In the WASD key bindings of the menu on "~" key.
 
 

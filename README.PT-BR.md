@@ -155,6 +155,10 @@ Se você está preso e não consegue passar por um dos momentos difíceis, entã
 
 
 
+**A câmera não se move na janela do espectador** - altere o parâmetro `DebugMode` para `true` no arquivo de configuração `default.vrsettings`.
+
+
+
 **Controles param de se mover no modo de espectador** - Não use a tecla "Espaço". Se você clicou, clique novamente. Nas teclas WASD do menu é a tecla "~".
 
 
