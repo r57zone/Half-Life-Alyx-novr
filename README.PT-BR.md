@@ -76,13 +76,13 @@ Existem também vários atalhos de botão alternativos no arquivo do driver. Há
 ## Dificuldades&nbsp;do&nbsp;passo&nbsp;a&nbsp;passo
 • **Chapter 3: Is Or Will Be (consertar a roda)**
 
-Primeiro você precisa puxar o tubo da roda. Em seguida, desça um pouco usando o botão "PageDown". Role a roda com RShift e veja. Após a rotação necessária, conserte a mão usando o botão " ' ". Role "RShift" e " ' ", levante o tubo com a mão direita (botão esquerdo do mouse). Ainda segurando todos os três botões, incline levemente o tubo para baixo usando o botão "J", e, em seguida, insira o tubo usando o botão "Insert" (controle de avanço). Todo o processo de acompanhamento neste momento pode ser visto [nesse video](https://youtu.be/70ok-78S2pA).
+Primeiro você precisa puxar o tubo da roda. Em seguida, desça um pouco usando o botão "PageDown". Role a roda com RShift e veja. Após a rotação necessária, conserte a mão usando o botão " ' ". Role "RShift" e " ' ", levante o tubo com a mão direita (botão esquerdo do mouse). Ainda segurando todos os três botões, incline levemente o tubo para baixo usando o botão "J", e, em seguida, insira o tubo usando o botão "Insert" (controle de avanço). Todo o processo de acompanhamento neste momento pode ser visto [nesse video](https://youtu.be/70ok-78S2pA). Além disso, se você se teletransportar rapidamente antes que a roda abaixe, você pode pegar a espingarda e não precisa mexer na roda.
 
 
 
 • **Chapter 4: Superweapon (jogar granada na ventilação)**
 
-Você precisa colocar 2 caixas uma em cima da outra e jogar uma granada como nesse [video](https://youtu.be/RD7Hm8u2XwE). Se você não puder fazer isso, você pode simplesmente colocar a granada usando o "PageUP" e vá para baixo pressionando o botão "Numpad -".
+Você precisa colocar 2 caixas uma em cima da outra e jogar uma granada. Se você não puder fazer isso, você pode simplesmente colocar a granada usando o "PageUP" e vá para baixo pressionando o botão "Numpad -".
 
 
 
@@ -106,7 +106,7 @@ Isso requer treinamento e paciência. Primeiro você precisa abaixar a alavanca 
 
 • **Chapter 10: Breaking and entering (batalha com a aranha)**
 
-Pegamos a arma com o controle correto e a direcionamos para a aranha, mais acima. Em seguida, no modo, segure a alavanca de recarga e mova-a para cima e para baixo, um de cada vez (olhando ou usando os botões para mover os controles para cima e para baixo "{", "}", no modo para mover o controle esquerdo, os botões esquerdo e direito do mouse). É extremamente importante apontar a arma mais alto para chegar à bola final lançada pela aranha.
+Pegamos a arma com o controle correto e a direcionamos para a aranha, mais acima (ou não se mova, o padrão está na posição desejada). Em seguida, no modo, segure a alavanca de recarga e mova-a para cima e para baixo, um de cada vez (olhando ou usando os botões para mover os controles para cima e para baixo "{", "}", no modo para mover o controle esquerdo, os botões esquerdo e direito do mouse). É extremamente importante apontar a arma mais alto para chegar à bola final lançada pela aranha.
 
 
 

@@ -76,13 +76,13 @@ There are also several alternative button bindings in the driver archive. There 
 ## Walkthrough difficulties
 • **Chapter 3: Is Or Will Be (fix the wheel)**
 
-First you need to pull the pipe out of the wheel. Then go down a bit using the "PageDown" button. Scroll the wheel with RShift and look. After the necessary rotation, fix the hand using the " ' " button. Holding "RShift" and " ' ", raise the pipe in your right hand (left mouse button). Still holding all three buttons, slightly tilt the pipe down using the "J" button, and then insert the pipe using the "Insert" button (forward controllers move). The whole process of walkthrough this moment can be seen in [this video](https://youtu.be/70ok-78S2pA).
+First you need to pull the pipe out of the wheel. Then go down a bit using the "PageDown" button. Scroll the wheel with RShift and look. After the necessary rotation, fix the hand using the " ' " button. Holding "RShift" and " ' ", raise the pipe in your right hand (left mouse button). Still holding all three buttons, slightly tilt the pipe down using the "J" button, and then insert the pipe using the "Insert" button (forward controllers move). The whole process of walkthrough this moment can be seen in [this video](https://youtu.be/70ok-78S2pA). Also, if you quickly teleport before the wheel goes down, you can pick up the shotgun and then you don't have to mess with the wheel.
 
 
 
 • **Chapter 4: Superweapon (throw grenade into the ventilation)**
 
-You need to put 2 boxes on top of each other and throw a grenade like on [video](https://youtu.be/RD7Hm8u2XwE). If you can’t do it, you can simply put the grenade up by using the "PageUP" buttons and go down then by pressing the "Numpad -" button.
+You need to put 2 boxes on top of each other and throw a grenade. If you can’t do it, you can simply put the grenade up by using the "PageUP" buttons and go down then by pressing the "Numpad -" button.
 
 
 
@@ -106,7 +106,7 @@ This requires training and patience. First you need to lower the lever (grab the
 
 • **Chapter 10: Breaking and entering (battle with the spider)**
 
-We grab the weapon with the right controller and direct it towards the spider, higher. Next, in the mode, grab the reload lever and move it up and down, one at a time (by looking at or using the buttons for moving the controllers up and down "{" ,"}", in the mode for moving the left controller, the left and right mouse buttons). It is extremely important to aim the weapon higher to get into the final ball launched by the spider.
+We grab the weapon with the right controller and direct it towards the spider, higher (or don't move at all, the default is in the desired position). Next, in the mode, grab the reload lever and move it up and down, one at a time (by looking at or using the buttons for moving the controllers up and down "{" ,"}", in the mode for moving the left controller, the left and right mouse buttons). It is extremely important to aim the weapon higher to get into the final ball launched by the spider.
 
 
 
