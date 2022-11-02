@@ -192,7 +192,11 @@ Por favor leia as issues [abertas](https://github.com/r57zone/Half-Life-Alyx-nov
 ## VR&nbsp;para&nbsp;dispositivos&nbsp;móveis&nbsp;e&nbsp;DIY
 [![](https://user-images.githubusercontent.com/9499881/80217537-e70b3b00-8650-11ea-9558-3f27a5b30cc8.gif)](https://youtu.be/4Q_YqkWfWqI)
 
-Você pode jogar transmitindo o jogo para o seu smartphone, por exemplo, através do aplicativo Moonlight (para Nvidia 600 series+), [Sunshine](https://github.com/loki-47-6F-64/sunshine/releases), [OpenStream](https://open-stream.net) ou Trinus. A posição da cabeça pode ser transmitida usando o [OpenTrack](https://github.com/opentrack/opentrack) e o aplicativo FreePie IMU (para Android, do arquivo OpenTrack). Você também pode usar drivers de terceiros para capacetes VR feitos de um smartphone, para isso você precisa alterar o parâmetro `HMD` para `0` no arquivo de configuração "...\Steam\steamapps\common\SteamVR\drivers\ hlalyx\HalfLifeAlyx.ini" e instale o driver SteamVR necessário para o capacete, por exemplo, [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-OpenTrack), [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-ArduinoHMD ) ou algum outro, e também altere o perfil do botão para "Mobile and DIY VR with HMD rotation", no qual os botões esquerdo e direito são feitos para rotações do jogador. Você também pode adicionar um botão de agachamento nas configurações do jogo.
+Você pode jogar transmitindo o jogo para o seu smartphone, por exemplo, através do aplicativo Moonlight (para Nvidia 600 series+), [Sunshine](https://github.com/loki-47-6F-64/sunshine/releases), [OpenStream](https://open-stream.net) ou Trinus. A posição da cabeça pode ser transmitida usando o [OpenTrack](https://github.com/opentrack/opentrack) e o aplicativo FreePie IMU (para Android, do arquivo OpenTrack).
+
+Você também pode usar drivers de terceiros para capacetes VR feitos de um smartphone, para isso você precisa alterar o parâmetro `HMD` para `0` no arquivo de configuração "...\Steam\steamapps\common\SteamVR\drivers\ hlalyx\HalfLifeAlyx.ini" e instale o driver SteamVR necessário para o capacete, por exemplo, [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-OpenTrack), [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-ArduinoHMD ) ou algum outro, e também altere o perfil do botão para "Mobile and DIY VR with HMD rotation", no qual os botões esquerdo e direito são feitos para rotações do jogador.
+
+Você também pode adicionar um botão de agachamento nas configurações do jogo.
 
 ## Download
 >Driver e utilitários necessários<br>
