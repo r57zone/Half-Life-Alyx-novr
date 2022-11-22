@@ -86,7 +86,7 @@ z Z | `Z`
 \ | `\`
 \ | `\`
 < | `<`
-> | `>`
+\> | `>`
 ? | `?`
 PRINTSCREEN | `PRINTSCREEN`
 SCROLL-LOCK | `SCROLL-LOCK`

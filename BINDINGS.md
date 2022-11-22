@@ -85,7 +85,7 @@ z Z | `Z`
 ‘ « | `APOSTROPHE`
 \ | `\`
 < | `<`
-> | `>`
+\> | `>`
 ? | `?`
 PRINTSCREEN | `PRINTSCREEN`
 SCROLL-LOCK | `SCROLL-LOCK`
