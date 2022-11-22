@@ -1,5 +1,5 @@
 //============ Copyright (c) Valve Corporation, All rights reserved. ============
-//====================== True Open Virtual Reality bridge =======================
+//===================== Half-Life: Alyx novr mod / driver =======================
 
 #include <openvr_driver.h>
 //#include "driverlog.h"
