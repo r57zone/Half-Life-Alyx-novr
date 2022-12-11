@@ -197,7 +197,7 @@ Please read [opened](https://github.com/r57zone/Half-Life-Alyx-novr/issues) and 
 
 You can play by streaming the game to your smartphone, for example, through the Moonlight app (for Nvidia 600 series+), [Sunshine](https://github.com/loki-47-6F-64/sunshine/releases), [OpenStream](https://open-stream.net) or Trinus. Head position can be transmitted using [OpenTrack](https://github.com/opentrack/opentrack) and the FreePie IMU app (for Android, from the OpenTrack archive).
 
-You can also use third-party drivers for VR hmds made from a smartphone, for this you need to change the `HMD` parameter to `0` in the configuration file "...\Steam\steamapps\common\SteamVR\drivers\hlalyx\HalfLifeAlyx.ini" and install the necessary SteamVR driver for the hmd, for example, [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-OpenTrack), [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-ArduinoHMD ) or some other, and also change the button profile to "Mobile and DIY VR with HMD rotation", in which the left and right buttons are made for player rotations.
+You can also use third-party drivers for VR hmds made from a smartphone, for this you need to change the `HMD` parameter to `0` in the configuration file "...\Steam\steamapps\common\SteamVR\drivers\hlalyx\HalfLifeAlyx.ini" and install the necessary SteamVR driver for the hmd, for example, [OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-OpenTrack), [OpenVR-ArduinoHMD](https://github.com/r57zone/OpenVR-ArduinoHMD ) or some other, and also change the button profile to "Mobile and DIY VR with HMD rotation", in which the left and right buttons are made for player rotations.
 
 You can also add a crouch button in the game settings.
 
