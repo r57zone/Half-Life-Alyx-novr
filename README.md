@@ -1,6 +1,7 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.md)
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.RU.md) 
 [![PT-BR](https://user-images.githubusercontent.com/9499881/132352803-3abd678b-26c4-4721-9662-c3e5e1161dfc.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.PT-BR.md) 
+[![PT-BR](https://user-images.githubusercontent.com/9499881/209453249-8632c025-e849-4e04-9cfc-89a00c9dbd80.png)](https://github.com/r57zone/Half-Life-Alyx-novr/blob/master/README.ES-ES.md) 
 # Half-Life: Alyx non-VR mod (driver)
 First driver allows to complete [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) without VR on keyboard and mouse. This method allows to complete the game and try out VR mechanics. Some moments will make you sweat, but they are passable in this way. Also, this method allows you to get a very interesting and unusual gameplay (sometimes similar to Amnesia or Penumbra), which unfortunately almost never happens in ordinary games. I went through the game in VR and went through it that way, and I find both experiences very interesting.
 
