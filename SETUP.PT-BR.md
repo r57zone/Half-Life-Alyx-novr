@@ -1,7 +1,7 @@
 # Instalação
 ## Novo método
 1. Instale [SteamVR] (https://store.steampowered.com/app/250820/SteamVR/).
-2. Descompacte o driver ["HalfLifeAlyx.SteamVR.driver.zip"](https://github.com/r57zone/Half-Life-Alyx-novr/releases), na pasta "...\Steam\steamapps\common\SteamVR\drivers" .
+2. Extraia a pasta `hlalyx` do arquivo ["HalfLifeAlyx.SteamVR.driver.zip"](https://github.com/r57zone/Half-Life-Alyx-novr/releases), na pasta "...\Steam\steamapps\common\SteamVR\drivers".
 3. Altere as configurações no arquivo de configuração "...\Steam\steamapps\common\SteamVR\drivers\hlalyx\resources\settings\default.vrsettings", "renderWidth" largura, e "renderHeight" a altura da resolução do jogo (por exemplo, para um jogo em 1920 por 1080, você precisa definir "renderWidth" para 1920, e "renderHeight" para 1080 (para reduzir o FOV, você pode definir "ZoomWidth" para 0.8 e "ZoomHeight" para 0.8, isso ajudará a reduzir as bordas pretas), se o jogo ficar lento, esses parâmetros podem ser reduzidos, por exemplo, 1280 e 720).
 4. Inicio o SteamVR e na janela de status clique em -> Preparação de cômodo -> Apenas em pé -> Calibração -> `170` cm. Você pode fechar o tutorial do SteamVR, e a página inicial do SteamVR é desabilitada nas configurações do SteamVR.
 5. Para Steam, acesse as propriedades do jogo, clique nas opções de inicialização e digite `+ vr_gg_gesture_pull 0`. Para um atalho, vá para as propriedades do atalho e adicione o mesmo: `"C:\Games\Half-Life Alyx\bin\win64\hlvr.exe " +vr_gg_gesture_pull 0`. Isso é necessário para que os objetos [sejam puxados por uma tecla](https://youtu.be/RWQbwlXjtjI). Além disso, se você estiver usando uma versão pirata do jogo, precisará adicionar ` -vr -noasserts -nopassiveasserts +map startup`.
