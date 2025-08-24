@@ -141,10 +141,10 @@ int KeyNameToKeyCode(std::string KeyName) {
 	else if (KeyName == "PAUSE") return VK_PAUSE;
 	else if (KeyName == "INSERT") return VK_INSERT;
 	else if (KeyName == "HOME") return VK_HOME;
-	else if (KeyName == "PAGE-UP") return VK_NEXT;
 	else if (KeyName == "DELETE") return VK_DELETE;
 	else if (KeyName == "END") return VK_END;
-	else if (KeyName == "PAGE-DOWN") return VK_PRIOR;
+	else if (KeyName == "PAGE-UP") return VK_PRIOR;
+	else if (KeyName == "PAGE-DOWN") return VK_NEXT;
 
 	else if (KeyName == "UP") return VK_UP;
 	else if (KeyName == "DOWN") return VK_DOWN;
@@ -389,12 +389,10 @@ void MouseToYawPitch()
 
 void GetHMDData(__out THMD *HMD)
 {
-	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_LOWER) & 0x8000) != 0)
-		if (HMDPosZ < 0.5)
-			HMDPosZ += StepPos;
 	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_HIGHER) & 0x8000) != 0)
-		if (HMDPosZ - CrouchOffsetZ > -1.5)
-			HMDPosZ -= StepPos;
+		HMDPosZ += StepPos;
+	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_LOWER) & 0x8000) != 0)
+		HMDPosZ -= StepPos;
 	if ((GetAsyncKeyState(KEY_ID_PLAYER_RISE_RESET) & 0x8000) != 0)
 		HMDPosZ = 0;
 
@@ -947,6 +945,27 @@ public:
 		//Debug mode activate Windowed Mode (borderless fullscreen), lock to 30 FPS 
 		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_DisplayDebugMode_Bool, m_bDebugMode);
 
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_SerialNumber_String, m_sSerialNumber.c_str());
+
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_WillDriftInYaw_Bool, false);
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_ManufacturerName_String, "hlalyx");
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_TrackingFirmwareVersion_String, "1.0");
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_HardwareRevision_String, "1.0");
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_DeviceIsWireless_Bool, false);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_DeviceIsCharging_Bool, false);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_CanUnifyCoordinateSystemWithHmd_Bool, true);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_ContainsProximitySensor_Bool, false);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, Prop_DeviceCanPowerOff_Bool, false);
+		vr::VRProperties()->SetInt32Property(m_ulPropertyContainer, vr::Prop_DeviceClass_Int32, vr::TrackedDeviceClass_HMD);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, vr::Prop_HasCamera_Bool, false);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, vr::Prop_Firmware_ForceUpdateRequired_Bool, false);
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, vr::Prop_RegisteredDeviceType_String, "HMD");
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, vr::Prop_NeverTracked_Bool, false);
+		vr::VRProperties()->SetBoolProperty(m_ulPropertyContainer, vr::Prop_Identifiable_Bool, false);
+
+		vr::VRProperties()->SetStringProperty(m_ulPropertyContainer, Prop_SerialNumber_String, m_sSerialNumber.c_str());
+
+
 		// Icons can be configured in code or automatically configured by an external file "drivername\resources\driver.vrresources".
 		// Icon properties NOT configured in code (post Activate) are then auto-configured by the optional presence of a driver's "drivername\resources\driver.vrresources".
 		// In this manner a driver can configure their icons in a flexible data driven fashion by using an external file.
@@ -1167,6 +1186,10 @@ public:
 			pose.vecPosition[1] = MyHMD.Z;
 			pose.vecPosition[2] = MyHMD.Y;
 		}
+
+		pose.shouldApplyHeadModel = true;
+		pose.poseTimeOffset = 0;
+		pose.willDriftInYaw = false;
 
 		return pose;
 	}

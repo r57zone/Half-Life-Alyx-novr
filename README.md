@@ -58,7 +58,7 @@ Backspace | Health and ammo display | Left controller rotation
 ";" | Throwing objects is better with mouse movement. Throwing items (grenades, energy balls, and so on). To throw an energy ball in chapter 11, you need to double press the button | Movement of the left controller forward
 End | Throwing an energy ball (chapter 11: Departure), if it doesn’t work, try to click quickly several times | Left controller movement
 Delete | Enabling and disabling aiming mode (also disabled when the right and middle mouse buttons are clicked) | Moving controllers in front of the face
-PageUP and PageDown | Move up and down | Moving controllers and head up and down
+PageUp and PageDown | Move up and down | Moving controllers and head up and down
 Numpad "-" | Reset move down and up | Return to position before moving
 "{" and "}"  | Moving the left controller up and down, in the movement mode of the left controller (right mouse button) | Move left controller up in height
 Insert and Home | The movement of the controller forward and backward | The movement of the controller forward and backward

@@ -55,7 +55,7 @@ Retroceso | Visualización de salud y munición | Rotación del controlador izqu
 ";" | Lanzar objetos es mejor con el movimiento del ratón. Lanzar objetos (granadas, bolas de energía, etc.). Para lanzar una bola de energía en el capítulo 11, tienes que pulsar dos veces el botón | Movimiento del mando izquierdo hacia delante
 Fin | Lanzar una bola de energía (capítulo 11: Partida), si no funciona, intenta pulsar rápidamente varias veces | Movimiento del mando izquierdo
 Suprimir | Activar y desactivar el modo de puntería (también se desactiva cuando se pulsan los botones derecho y central del ratón) | Movimiento de los mandos delante de la cara
-PageUP y PageDown | Mover arriba y abajo | Mover los controladores y la cabeza arriba y abajo
+PageUp y PageDown | Mover arriba y abajo | Mover los controladores y la cabeza arriba y abajo
 Numpad "-" | Restablecer movimiento abajo y arriba | Volver a la posición anterior al movimiento
 "{" y "}"  | Mover el controlador izquierdo arriba y abajo, en el modo de movimiento del controlador izquierdo (botón derecho del ratón) | Mover el controlador izquierdo arriba en altura
 "Insert" y "Home" | El movimiento del controlador hacia delante y hacia atrás
